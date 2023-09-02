@@ -3,90 +3,90 @@ var tarotList = [
     cardname:"Baka"
     ,filename:"major0"
     ,uprightKey:"<button class='cardKey'>Beginnings</button><button class='cardKey'>Freedom</button><button class='cardKey'>Free Spirit</button>"
-    ,uprightDesc:"The major arcana tells the story of an individual's path towards completion. Being the first card, the fool therefore is a blank state, a representation of purity and innocence of a child that knows nothing of the world."
+    ,uprightDesc:"<p>To see the The Baka generally means a beginning of a new journey, one where you will be filled with optimism and freedom from the usual constraints in life. He believes that anything can happen in life and there are many opportunities that are lying out there, in the world, waiting to be explored and developed. He leads a simple life, having no worries, and does not seem troubled by the fact that he cannot tell what he will encounter ahead.</p><p>To meet him in a reading can also be seen as a call to the risk-taking part of your own character. The Baka is there to show that you can never really tell what lies ahead, and you can only greet it with joy.</p>"
     ,lesson:"I have enough courage and trust in myself to take a leap of faith."
     ,reverseKey:"<button class='cardKey'>Recklessness</button><button class='cardKey'>Inconsideration</button><button class='cardKey'>Being Taken Advantage Of</button>"
-    ,reverseDesc:""
+    ,reverseDesc:"<p>When you land on the reversed Baka in your reading, you can generally find his more negative characteristics being on display. It can mean that you are literally acting like a baka by disregarding the repercussions of your actions. Like the youth depicted in the card, you don't see how dangerous of a position you find yourself in.</p><p>A reversed Baka card can show that you are living in the moment and not planning for the future. The reversed Baka meaning serves as caution that you should be more aware so as not to be taken advantage of. This card is here to alert you on anything that may sound too good to be true.</p>"
 },
 {
     cardname:"Magician"
     ,filename:"major1"
     ,uprightKey:"<button class='cardKey'>Willpower</button><button class='cardKey'>Desire</button><button class='cardKey'>Creation</button><button class='cardKey'>Manifestation</button>"
-    ,uprightDesc:""
+    ,uprightDesc:"<p>The Magician is the representation of pure willpower. With the power of the elements and the suits, he takes the potential innate in the fool and molds it into being with the power of desire. Remember that you are powerful, create your inner world, and the outer will follow.</p><p>When you get the Magician in your reading, it might mean that it's time to tap into your full potential without hesitation. It shows that the time to take action is now and any signs of holding back would mean missing the opportunity of becoming the best version of yourself. Certain choices will have to be made and these can bring great changes to come. Harness some of the Magician's power to make the world that you desire most.</p>"
     ,reverseKey:"<button class='cardKey'>Trickery</button><button class='cardKey'>Illusions</button><button class='cardKey'>Out of Touch</button>"
-    ,reverseDesc:""
+    ,reverseDesc:"<p>When you obtain The Magician reversed, it might mean its time for you to implement some changes. The magic that The Magician performs is one of deception and trickery. You may be lured in by the showmanship of his arts, but behind that there may be an intention to manipulate for selfish gain. Getting this card might mean that there is someone who pretends to have your best interests at hand when the opposite is true.</p><p>Consider whether this reversed the magician is in your circle, or perhaps might also represent your current state of emotions. It may mean you may become obsessed with power and that might lead to wrong, reckless decisions that will lead to your eventual downfall.</p>"
     ,lesson:"I have all the tools to create my reality. The divine works through me."
 },
 {
     cardname:"High Purriestess"
     ,filename:"major2"
     ,uprightKey:"<button class='cardKey'>Intuition</button><button class='cardKey'>Unconscious</button><button class='cardKey'>Inner Voice</button>"
-    ,uprightDesc:""
+    ,uprightDesc:"<p>The meaning of the High Purriestess is related with inner knowledge. Her appearance in a reading can signify that it is time for you to listen to your intuition rather than prioritizing your intellect and conscious mind.</p><p>The world in which she protects and guards is one that may at first seem frightening, but has the potential to lead us into the growth of the self. When she appears in a reading, she is calling to you to listen to her message, and follow her into your own depths. There is searching within yourself to be done for the answers that you seek. The answers to the questions you have are within, not without.</p>"
     ,reverseKey:"<button class='cardKey'>Confusion</button><button class='cardKey'>Superficiality</button><button class='cardKey'>Repressed Feelings</button><button class='cardKey'>Hidden Motives</button>"
-    ,reverseDesc:""
+    ,reverseDesc:"<p>When it comes to the High Purriestess reversed, it can mean that you are finding it difficult to listen to your intuition. It is time for you to meditate and try new approach, for at this moment, the rational approach will not work. Something has been telling you to follow your gut, but you may be ignoring the call. There is a lot of confusion around you, and your actions may feel contrary to what you know is right. You must never be afraid to ask questions of yourself that may illuminate a new path forward for you, one that is more authentic to your inner self and your individual values.</p>"
     ,lesson:"I trust the wisdom of my inner voice."
 },
 {
     cardname:"Empurress"
     ,filename:"major3"
     ,uprightKey:"<button class='cardKey'>Fertility</button><button class='cardKey'>Nurturing</button><button class='cardKey'>Creativity</button><button class='cardKey'>Nature</button>"
-    ,uprightDesc:""
+    ,uprightDesc:"<p>The Empurress shows us how deeply we are embedded to our femininity. Femininity could be associated with fertility, expression, creativity and nurturing among many other aspects. It therefore calls you to connect with beauty and bring happiness to your life. She is a signal that be kind to yourself, to take care of yourself.</p><p>The Empurress card is a strong indication of pregnancy and motherhood. It could also mean the birth of a new idea, business or project on your life. Discover and bring forth those ideas that have been clinging to you and make sure that you devote yourself towards accomplishing them. This card is a sign that they are going to be successful, and well taken care of.</p>"
     ,reverseKey:"<button class='cardKey'>Dependence</button><button class='cardKey'>Overbearing</button><button class='cardKey'>Insecurity</button><button class='cardKey'>Lack of growth</button>"
-    ,reverseDesc:""
+    ,reverseDesc:"<p>The Empurress reversed indicates that you have lost too much of your own willpower and strength because you have started placing too much effort and concern to other people’s affairs. While the Empress's nature is of showering her loved ones with attention and care, this can sometimes go overboard. You might be neglecting your own needs, or even smothering the ones you love with your well-intentioned actions.</p><p>In a role reversal, perhaps a reversed Empress is finding her way into your life. It could also mean that you are relying on others to take care of you, and make decisions for you. You need to work towards removing this influence on your life, and build confidence in your own actions. Always try as much as you can to ensure that you solve matters on your own.</p>"
     ,lesson:"I bring abundance to myself and everything under my care."
 },
 {
     cardname:"Empurror"
     ,filename:"major4"
     ,uprightKey:"<button class='cardKey'>Authority</button><button class='cardKey'>Structure</button><button class='cardKey'>Control</button><button class='cardKey'>Discipline</button><button class='cardKey'>Fatherhood</button>"
-    ,uprightDesc:""
+    ,uprightDesc:"<p>The Empurror represents a strategic thinker who sets out plans that he must see through. He guides with a firm hand, following the calling of the crown above all else. Though he is a ruler, he understands that to reign is also to serve - thus he acts rationally and according to what is for the greater good of the kingdom.</p><p>To see him in a reading presents a chance to grow in terms of the goals that you have set for yourself. It presents a successful future as long as you pursue your goals similar to the fashion that the Empurror does, methodically, and strategically.</p><p>When you see him in a reading, a possible interpretation is that you could be put in charge of something important. You may be called to act in the place of the Empurror, using his wisdom to bring clarity to the project.</p>"
     ,reverseKey:"<button class='cardKey'>Tyranny</button><button class='cardKey'>Rigidity</button><button class='cardKey'>Lack of Discipline</button><button class='cardKey'>Stubborness</button>"
-    ,reverseDesc:""
+    ,reverseDesc:"<p>The Empurror reversed is a sign of abused authoritative power. It presents a person who wants to take control of your actions and makes you feel powerless. It could also be that you are playing the part of a weak ruler, hatching a plan to avoid the tasks that come with having responsibility. Perhaps you aspire for a career that is more flexible than one that is governed by strict rules.</p><p>Lack of self-control and inability to handle situations can be represented by the Empurror on a personal level. When he is reversed, the structures, rules and systems that he creates are no longer working. His desire to inspire higher principles in his kingdom have turned to ruthlessness, tyranny and rigidity. He seeks to dominate, forgetting his call from the crown to do what is best for his people, fearing only for his loss of control and thus creating suffering.</p>"
     ,lesson:"I protect my boundaries and I let go of what is not mine to control."
 },
 {
     cardname:"Hierophant"
     ,filename:"major5"
     ,uprightKey:"<button class='cardKey'>Tradition</button><button class='cardKey'>Conformity</button><button class='cardKey'>Beliefs</button><button class='cardKey'>Morality and Ethics</button>"
-    ,uprightDesc:""
+    ,uprightDesc:"<p>To see the Hierophant in a reading is to embrace the conventional, for it suggests that you have a certain desire to actually follow a process which has been well established. It also suggests that you want to stay within certain conventional bounds of what could be considered an orthodox approach.</p><p>The Hierophant card suggests that it’s better for you to follow social structures which are established and have their own traditions. When it comes to tarot readings, this particular card is most commonly representative of institutions as well as their core values. This is a sign that shows that you need to conform to the already existing set of rules and situations which are fixed already.</p>"
     ,reverseKey:"<button class='cardKey'>Rebellion</button><button class='cardKey'>Non-conformity</button><button class='cardKey'>New Approaches</button>"
-    ,reverseDesc:""
+    ,reverseDesc:"<p>When you see the Hierophant in reverse, it may mean that you are feeling particularly restricted and even constrained from too many structures and rules. As a result, you have lost quite a lot of control as well as flexibility in your life. You have a particularly strong will and desire to go ahead and regain control as well as to break free from the shackles of convention. You are tempted to try unorthodox approaches or to function in a way which defies social ties and norms.</p><p>The Hierophant reversal meaning is mostly about questioning certain traditions and making sure that whatever it is that you do is the right thing for you in this certain moment.</p>"
     ,lesson:"I can find belonging with people that accept me as who I am."
 },
 {
     cardname:"Lovers"
     ,filename:"major6"
     ,uprightKey:"<button class='cardKey'>Union</button><button class='cardKey'>Partnership</button><button class='cardKey'>Duality</button><button class='cardKey'>Choice</button><button class='cardKey'>Balance</button>"
-    ,uprightDesc:""
+    ,uprightDesc:"<p>The bond that The Lovers have created is very strong, and it can indicate that the two are joined in marriage, and other close and intimate relationships.</p><p>Another meaning behind the lovers card is the concept of choice - a choice between things that are opposing and mutually exclusive. This could be a dilemma that you need to think about carefully and make the best decision for your situation.</p><p>A more personal Lovers meaning that can apply to individuals is the development of your own personal belief systems, regardless of what are the societal norms. You must start making up your mind about what you find important and unimportant in your life. You should be as true to yourself as you can be, so you will be genuine and authentic to the people who are around you.</p>"
     ,reverseKey:"<button class='cardKey'>Loss of Balance</button><button class='cardKey'>Bad choices</button><button class='cardKey'>Indecision</button><button class='cardKey'>One-sidedness</button>"
-    ,reverseDesc:""
+    ,reverseDesc:"<p>The Lovers reversed can point to both inner and outer conflicts that you are dealing with. The disharmony can make daily life difficult and could be putting pressure on your relationships. You should take time to think about what you are punishing yourself for, so you can fix them or let them go. At this time, you should also think about your personal values and belief system to make sure that they are aligned with what you want from your life.</p><p>A break in communication could be another possible interpretation. The foundation for your relationships may be cut off, creating an imbalance between you and your partner or loved ones.</p><p>The Lovers reversed can also indicate that you have been avoiding responsibility for your actions. You could have made a decision that was based on your desire for immediate gratification but are now blaming others for the consequences that are catching up to you. So, you need to make amends or let go of the past and make better decisions in the future.</p>"
     ,lesson:"Love reveals itself through my everyday actions."
 },
 {
     cardname:"Chariot"
     ,filename:"major7"
     ,uprightKey:"<button class='cardKey'>Success</button><button class='cardKey'>Ambition</button><button class='cardKey'>Control</button><button class='cardKey'>Self-control</button><button class='cardKey'>Willpower</button>"
-    ,uprightDesc:""
+    ,uprightDesc:"<p>The Chariot tarot card is all about overcoming challenges and gaining victory through maintaining control of your surroundings. The use of strength and willpower are critical in ensuring that you overcome the obstacles that lie in your path. The Chariot's message comes to make you stronger as you strive to achieve your goals.</p><p> If you have a plan or a project that you seem not to be sure about, the Chariot shows that you should pursue the plan with a structured and ordered approach. Your boldness will ensure that you achieve all that you should in this goal.</p><p>Aggression is a natural part of human nature, and the Chariot reminds you that it can also be used to help you take charge of your situation, but also must be reined in so that it does not hinder your way forward.</p>"
     ,reverseKey:"<button class='cardKey'>Forceful</button><button class='cardKey'>No Direction</button><button class='cardKey'>Aggression</button><button class='cardKey'>Obstacles</button><button class='cardKey'>Powerlessness</button>"
-    ,reverseDesc:""
+    ,reverseDesc:"<p>The reversed Chariot's appearance in a reading can help you become aware of both your aggression, and your lack of willpower. It may either be saying that you are lacking in focus, motivation or direction, or that you are being warped by your obsession with your goals. In the former case, let the Chariot be a reminder that you can emerge victorious as long as you can gather the courage to do so. In the latter, your impulses may be another factor that you must rein in. To see the Chariot in reverse may suggest that you need to come to terms with the fact that you cannot always be in control.</p><p>The Chariot reversal meaning can also be an indication of lack of control and direction over your life. You are taking everything lying down, and life is dragging in any direction that it pleases. It should serve as a wakeup call and reminder that you will need to tighten some loose ends and take charge of your destiny.</p>"
     ,lesson:"I know when it exert determination and when to let go."
 },
 {
     cardname:"Strength"
     ,filename:"major8"
-    ,uprightKey:"<button class='cardKey'></button>"
-    ,uprightDesc:"<button class='cardKey'>Courage</button><button class='cardKey'>Focus</button><button class='cardKey'>Self-Confidence</button><button class='cardKey'>Compassion</button>"
+    ,uprightKey:"<button class='cardKey'>Courage</button><button class='cardKey'>Focus</button><button class='cardKey'>Self-Confidence</button><button class='cardKey'>Compassion</button>"
+    ,uprightDesc:"<p>When you get the Strength card in an upright manner during your tarot reading, then it shows that you have inner strength and fortitude during moments of danger and distress. It shows that you have the ability to remain calm and strong even when your life is going through immense struggle. It also shows that you are a compassionate person and you always have time for other people even if it's at your own expense.</p><p>Getting the strength card means that you are a very patient individual who is likely to accomplish anything that they put their mind to. Your resilience will greatly aid you, and your fearlessness means that you should have no issues speaking your mind. This card also indicates this kind of compassion will always be rewarded with having a lot of stability in your life either presently on in the near future.</p>"
     ,reverseKey:"<button class='cardKey'>Self Doubt</button><button class='cardKey'>Insecurity</button><button class='cardKey'>Weakness</button><button class='cardKey'>Inadequacy</button><button class='cardKey'>Cowardice</button>"
-    ,reverseDesc:""
+    ,reverseDesc:"<p>An upside down Strength card can mean that you are, or about to experience an intense anger or fear in your life. You seem to be lacking inner strength , meaning you might be experiencing fear, and a lack of conviction and confidence in your own abilities. This can mean that you have forgotten all about your passions and the kind of joy, happiness, and fulfillment that came with doing what you love.</p><p>A reversed strength card in a reading might also mean that one is experiencing depression because of a number of reasons and because of that, it is draining all of the happiness from their lives. One might end up being withdrawn from society because of the unhappiness or depression since they may feel people are the reason why they are so sad. It can also be a sign of jealousy, especially when everyone seems to be happy or excelling in every aspect of life while you are stagnating. This card indicates that you must learn to gain confidence in order to re-harness your inner strength.</p>"
     ,lesson:"My compassion to myself sets the foundation for my compassion to others."
 },
 {
     cardname:"Hermit"
     ,filename:"major9"
     ,uprightKey:"<button class='cardKey'>Self-reflection</button><button class='cardKey'>Contemplation</button><button class='cardKey'>Withdrawal</button><button class='cardKey'>Solitude</button><button class='cardKey'>Search for Truth</button>"
-    ,uprightDesc:""
+    ,uprightDesc:"<p>You are currently contemplating that you need to be alone. Never be afraid to take this chance to reflect, as it could help you clear your mind of all the clutter that comes with everyday life. The Hermit may also refer to your effort in taking action that is authentic and aligned with your true self. You are perhaps searching your inner soul for guidance on what is right, and where your next steps are to be.</p><p>The hermit's appearance in a reading can also denote the appearance of someone who will come to your life that will be your mentor.</p>"
     ,reverseKey:"<button class='cardKey'>Loneliness</button><button class='cardKey'>Isolation</button><button class='cardKey'>Rejection</button><button class='cardKey'>Returning to Society</button>"
-    ,reverseDesc:""
+    ,reverseDesc:"<p>When reversed, you are perhaps in a situation where you'd like to be alone; there is nothing wrong about that. However, there is a possibility that your seclusion may become harmful to both yourself and others. Like a man that gets lost in his own dreams, The Hermit may find himself stuck in a world of his own, alone, trapped, unreal. You must learn to balance your need for truth with connection to your fellow human.</p><p>When it comes to work, the hermit reversal meaning refers to your preparedness to get to the bottom of something that has been troubling you for quite some time now. There is searching to be done, and it will be your responsibility to ask the question that will allow the other people to understand the circumstances.</p>"
     ,lesson:"In silence and solitude, I can encourage my inner voice to speak."
 },
 {
@@ -398,54 +398,54 @@ var tarotList = [
 {
     cardname:"IX of Swords"
     ,filename:"sword9"
-    ,uprightKey:""
+    ,uprightKey:"<button class='cardKey'>Fear</button><button class='cardKey'>Anxiety</button><button class='cardKey'>Negativity</button><button class='cardKey'>Breaking Point</button><button class='cardKey'>Despair</button><button class='cardKey'>Nightmares</button><button class='cardKey'>Isolation</button>"
     ,uprightDesc:""
-    ,reverseKey:""
+    ,reverseKey:"<button class='cardKey'>Recovery</button><button class='cardKey'>Learning to Cope</button><button class='cardKey'>Finding Help</button><button class='cardKey'>Shame</button><button class='cardKey'>Guilt</button>"
     ,reverseDesc:""
     ,lesson:"I can be brave and act despite my anxiety."
 },
 {
     cardname:"X of Swords"
     ,filename:"sword10"
-    ,uprightKey:""
+    ,uprightKey:"<button class='cardKey'>Ruin</button><button class='cardKey'>Failure</button><button class='cardKey'>Bitterness</button><button class='cardKey'>Exhaustion</button><button class='cardKey'>Dead End</button><button class='cardKey'>Victimisation</button><button class='cardKey'>Betrayal</button>"
     ,uprightDesc:""
-    ,reverseKey:""
+    ,reverseKey:"<button class='cardKey'>Survival</button><button class='cardKey'>Improvemnt</button><button class='cardKey'>Healing</button><button class='cardKey'>Lessons Learend</button><button class='cardKey'>Despair</button><button class='cardKey'>Relapse</button>"
     ,reverseDesc:""
     ,lesson:"When I accept an ending, I also release myself from its power."
 },
 {
     cardname:"Page of Swords"
     ,filename:"sword11"
-    ,uprightKey:""
+    ,uprightKey:"<button class='cardKey'>Curious</button><button class='cardKey'>Witty</button><button class='cardKey'>Chatty</button><button class='cardKey'>Inspired</button><button class='cardKey'>Vigilant</button><button class='cardKey'>Mental Agility</button>"
     ,uprightDesc:""
-    ,reverseKey:""
+    ,reverseKey:"<button class='cardKey'>Scatterbrained</button><button class='cardKey'>Cynical</button><button class='cardKey'>Insulting</button><button class='cardKey'>Rude</button><button class='cardKey'>Lack of Planning</button>"
     ,reverseDesc:""
     ,lesson:"There is so much more in the world to know."
 },
 {
     cardname:"Knight of Swords"
     ,filename:"sword12"
-    ,uprightKey:""
+    ,uprightKey:"<button class='cardKey'>Assertive</button><button class='cardKey'>Direct</button><button class='cardKey'>Impatient</button><button class='cardKey'>Intellectual</button><button class='cardKey'>Focused</button><button class='cardKey'>Perfectionist</button><button class='cardKey'>Ambitious</button>"
     ,uprightDesc:""
-    ,reverseKey:""
+    ,reverseKey:"<button class='cardKey'>Rude</button><button class='cardKey'>Tactlss</button><button class='cardKey'>Forceful</button><button class='cardKey'>Aggressive</button><button class='cardKey'>Vicious</button><button class='cardKey'>Arrogant</button>"
     ,reverseDesc:""
     ,lesson:"I am not afraid of confrontation when it is needed."
 },
 {
     cardname:"Queen of Swords"
     ,filename:"sword13"
-    ,uprightKey:""
+    ,uprightKey:"<button class='cardKey'>Honest</button><button class='cardKey'>Indendent</button><button class='cardKey'>Fair</button><button class='cardKey'>Constructive Criticism</button><button class='cardKey'>Objective</button><button class='cardKey'>Perceptive</button>"
     ,uprightDesc:""
-    ,reverseKey:""
+    ,reverseKey:"<button class='cardKey'>Pessimistic</button><button class='cardKey'>Malicious</button><button class='cardKey'>Manipulative</button><button class='cardKey'>Harsh</button><button class='cardKey'>Spiteful</button><button class='cardKey'>Decitful</button><button class='cardKey'>Unforgiving</button>"
     ,reverseDesc:""
     ,lesson:"I accept that wisdom can come at an emotional cost."
 },
 {
     cardname:"King of Swords"
     ,filename:"sword14"
-    ,uprightKey:""
+    ,uprightKey:"<button class='cardKey'>Reason</button><button class='cardKey'>Authority</button><button class='cardKey'>Discipline</button><button class='cardKey'>Integrity</button><button class='cardKey'>Serious</button><button class='cardKey'>High Standards</button><button class='cardKey'>Strict</button>"
     ,uprightDesc:""
-    ,reverseKey:""
+    ,reverseKey:"<button class='cardKey'>Irrational</button><button class='cardKey'>Dictator</button><button class='cardKey'>Oppressive</button><button class='cardKey'>Controlling</button><button class='cardKey'>Ruthless</button><button class='cardKey'>Dishonest</button>"
     ,reverseDesc:""
     ,lesson:"I know when to hold back and when to act."
 },
@@ -456,7 +456,7 @@ var tarotList = [
     ,uprightDesc:""
     ,reverseKey:"<button class='cardKey'>Missed Opportunities</button><button class='cardKey'>Scarcity</button><button class='cardKey'>Instability</button><button class='cardKey'>Stinginess</button><button class='cardKey'>Bad investments</button>"
     ,reverseDesc:""
-    ,lesson:""
+    ,lesson:"I grasp the opportunities that are being offered to me."
 },
 {
     cardname:"II of Pentacles"
@@ -465,7 +465,7 @@ var tarotList = [
     ,uprightDesc:""
     ,reverseKey:"<button class='cardKey'>Imbalance</button><button class='cardKey'>Unorganised</button><button class='cardKey'>Messiness</button><button class='cardKey'>Chaos</button>"
     ,reverseDesc:""
-    ,lesson:""
+    ,lesson:"I accept uncertainty with the knowledge that I can adapt."
 },
 {
     cardname:"III of Pentacles"
@@ -474,7 +474,7 @@ var tarotList = [
     ,uprightDesc:""
     ,reverseKey:"<button class='cardKey'>Lack of Cohesion</button><button class='cardKey'>Lack of Teamwork</button><button class='cardKey'>Apathy</button><button class='cardKey'>Poor Motivation</button><button class='cardKey'>Conflict</button><button class='cardKey'>Competition</button>"
     ,reverseDesc:""
-    ,lesson:""
+    ,lesson:"I see the gifts that others bring to help me, and I honour them."
 },
 {
     cardname:"IV of Pentacles"
@@ -483,7 +483,7 @@ var tarotList = [
     ,uprightDesc:""
     ,reverseKey:"<button class='cardKey'>Generosity</button><button class='cardKey'>Spending</button><button class='cardKey'>Openness</button><button class='cardKey'>Financial Insecurity</button><button class='cardKey'>Reckless Spending</button>"
     ,reverseDesc:""
-    ,lesson:""
+    ,lesson:"I have enough. I am stable. I am safe."
 },
 {
     cardname:"V of Pentacles"
@@ -492,7 +492,7 @@ var tarotList = [
     ,uprightDesc:""
     ,reverseKey:"<button class='cardKey'>Positive Changes</button><button class='cardKey'>Recovery from Loss</button><button class='cardKey'>Overcomnig Adversity</button><button class='cardKey'>Forgiveness</button><button class='cardKey'>Feeling Welcomed</button>"
     ,reverseDesc:""
-    ,lesson:""
+    ,lesson:"I can ask for help. I can find support if I choose to."
 },
 {
     cardname:"VI of Pentacles"
@@ -501,7 +501,7 @@ var tarotList = [
     ,uprightDesc:""
     ,reverseKey:"<button class='cardKey'>Power Dynamics</button><button class='cardKey'>Abuse of Generosity</button><button class='cardKey'>Gifts with Strings Attached</button><button class='cardKey'>Inequality</button><button class='cardKey'>Extortion</button>"
     ,reverseDesc:""
-    ,lesson:""
+    ,lesson:"I give with generosity and receive with gratitude."
 },
 {
     cardname:"VII of Pentacles"
@@ -510,7 +510,7 @@ var tarotList = [
     ,uprightDesc:""
     ,reverseKey:"<button class='cardKey'>Unfinished Work</button><button class='cardKey'>Procrastination</button><button class='cardKey'>Low Effort</button><button class='cardKey'>Waste</button><button class='cardKey'>Lack of Growth</button><button class='cardKey'>Setbacks</button><button class='cardKey'>Lack of Reward</button>"
     ,reverseDesc:""
-    ,lesson:""
+    ,lesson:"My patience leads to perseverance."
 },
 {
     cardname:"VIII of Pentacles"
@@ -519,7 +519,7 @@ var tarotList = [
     ,uprightDesc:""
     ,reverseKey:"<button class='cardKey'>Lack of Quality</button><button class='cardKey'>Rushed Job</button><button class='cardKey'>Bad Reputation</button><button class='cardKey'>Lack of Motivation</button><button class='cardKey'>Laziness</button><button class='cardKey'>Low Skill</button>"
     ,reverseDesc:""
-    ,lesson:""
+    ,lesson:"The universe creates through me."
 },
 {
     cardname:"IX of Pentacles"
@@ -528,7 +528,7 @@ var tarotList = [
     ,uprightDesc:""
     ,reverseKey:"<button class='cardKey'>Being Guarded</button><button class='cardKey'>Mistakes</button><button class='cardKey'>Obsession with Work</button><button class='cardKey'>Reckless Spending</button><button class='cardKey'>Superficiality</button>"
     ,reverseDesc:""
-    ,lesson:""
+    ,lesson:"I am safe. I deserve comfort."
 },
 {
     cardname:"X of Pentacles"
@@ -537,7 +537,7 @@ var tarotList = [
     ,uprightDesc:""
     ,reverseKey:"<button class='cardKey'>Family Disputes</button><button class='cardKey'>Backruptcy</button><button class='cardKey'>Debt</button><button class='cardKey'>Failure</button><button class='cardKey'>Fleeting Success</button><button class='cardKey'>Conflict Over Money</button><button class='cardKey'>Instability</button>"
     ,reverseDesc:""
-    ,lesson:""
+    ,lesson:"I act to heal the trauma of my forebears, and set a better precedent for the future."
 },
 {
     cardname:"Page of Pentacles"
@@ -546,7 +546,7 @@ var tarotList = [
     ,uprightDesc:""
     ,reverseKey:"<button class='cardKey'>Foolish</button><button class='cardKey'>Immature</button><button class='cardKey'>Irresponsible</button><button class='cardKey'>Lazy</button><button class='cardKey'>Procrastinator</button><button class='cardKey'>Impracticality</button><button class='cardKey'>Missed Chances</button>"
     ,reverseDesc:""
-    ,lesson:""
+    ,lesson:"My diligence and attention will be rewarded."
 },
 {
     cardname:"Knight of Pentacles"
@@ -555,7 +555,7 @@ var tarotList = [
     ,uprightDesc:""
     ,reverseKey:"<button class='cardKey'>Workaholic</button><button class='cardKey'>Laziness</button><button class='cardKey'>Dull</button><button class='cardKey'>No Initiative</button><button class='cardKey'>Cheap</button><button class='cardKey'>Gambler</button><button class='cardKey'>Risky Investments</button>"
     ,reverseDesc:""
-    ,lesson:""
+    ,lesson:"I can achieve my ambitions without sacrificing my soul."
 },
 {
     cardname:"Queen of Pentacles"
@@ -564,7 +564,7 @@ var tarotList = [
     ,uprightDesc:""
     ,reverseKey:"<button class='cardKey'>Selfish</button><button class='cardKey'>Jealous</button><button class='cardKey'>Insecure</button><button class='cardKey'>Greedy</button><button class='cardKey'>Materialistic</button><button class='cardKey'>Self-absorbed</button><button class='cardKey'>Work Life Imbalance</button><button class='cardKey'>Smothering</button>"
     ,reverseDesc:""
-    ,lesson:""
+    ,lesson:"I care for myself so that I may care for others."
 },
 {
     cardname:"King of Pentacles"
@@ -573,131 +573,131 @@ var tarotList = [
     ,uprightDesc:""
     ,reverseKey:"<button class='cardKey'>Greed</button><button class='cardKey'>Materialistic</button><button class='cardKey'>Wasteful</button><button class='cardKey'>Exploitive</button><button class='cardKey'>Possessive</button><button class='cardKey'>Poor Financial Decision</button>"
     ,reverseDesc:""
-    ,lesson:""
+    ,lesson:"My resources are sacred. I treat them with respect and care."
 },
 {
     cardname:"Ace of Wands"
     ,filename:"wands1"
-    ,uprightKey:""
+    ,uprightKey:"<button class='cardKey'>Inspiration</button><button class='cardKey'>Creative Spark</button><button class='cardKey'>New Initiative</button><button class='cardKey'>New Passion</button><button class='cardKey'>Enthusiasm</button><button class='cardKey'>Energy</button>"
     ,uprightDesc:""
-    ,reverseKey:""
+    ,reverseKey:"<button class='cardKey'>Delays</button><button class='cardKey'>Blocks</button><button class='cardKey'>Lack of Passion</button><button class='cardKey'>Lack of Energy</button><button class='cardKey'>Hesitancy</button><button class='cardKey'>Creative Blocks</button>"
     ,reverseDesc:""
     ,lesson:"I seize today's energy to create my vision."
 },
 {
     cardname:"II of Wands"
     ,filename:"wands2"
-    ,uprightKey:""
+    ,uprightKey:"<button class='cardKey'>Planning</button><button class='cardKey'>First Steps</button><button class='cardKey'>Making Decisions</button><button class='cardKey'>Leaving Comfort</button><button class='cardKey'>Taking Risks</button>"
     ,uprightDesc:""
-    ,reverseKey:""
+    ,reverseKey:"<button class='cardKey'>Bad Planning</button><button class='cardKey'>Overanalysing</button><button class='cardKey'>Not Taking Action</button><button class='cardKey'>Playing It Safe</button><button class='cardKey'>Avoiding Risk</button>"
     ,reverseDesc:""
     ,lesson:"I give myself permission to dream big"
 },
 {
     cardname:"III of Wands"
     ,filename:"wands3"
-    ,uprightKey:""
+    ,uprightKey:"<button class='cardKey'>Momentum</button><button class='cardKey'>Confidence</button><button class='cardKey'>Expansion</button><button class='cardKey'>Growth</button><button class='cardKey'>Foresight</button><button class='cardKey'>Looking Ahead</button>"
     ,uprightDesc:""
-    ,reverseKey:""
+    ,reverseKey:"<button class='cardKey'>Restriction</button><button class='cardKey'>Limitations</button><button class='cardKey'>Lack of Progress</button><button class='cardKey'>Obstacles</button><button class='cardKey'>Delays</button><button class='cardKey'>Frustration</button>"
     ,reverseDesc:""
     ,lesson:"My actions today create tomorrow's future."
 },
 {
     cardname:"IV of Wands"
     ,filename:"wands4"
-    ,uprightKey:""
+    ,uprightKey:"<button class='cardKey'>Community</button><button class='cardKey'>Home</button><button class='cardKey'>Celebrations</button><button class='cardKey'>Reunions</button><button class='cardKey'>Gatherings</button><button class='cardKey'>Stability</button><button class='cardKey'>Belonging</button>"
     ,uprightDesc:""
-    ,reverseKey:""
+    ,reverseKey:"<button class='cardKey'>Lack of Support</button><button class='cardKey'>Instability</button><button class='cardKey'>Feeling Unwelcome</button><button class='cardKey'>Transcience</button><button class='cardKey'>Lack of Roots</button><button class='cardKey'>Home Conflict</button>"
     ,reverseDesc:""
     ,lesson:"I deserve to celebrate my accomplishments"
 },
 {
     cardname:"V of Wands"
     ,filename:"wands5"
-    ,uprightKey:""
+    ,uprightKey:"<button class='cardKey'>Conflict</button><button class='cardKey'>Competition</button><button class='cardKey'>Arguments</button><button class='cardKey'>Tension</button><button class='cardKey'>Rivals</button><button class='cardKey'>Aggression</button>"
     ,uprightDesc:""
-    ,reverseKey:""
+    ,reverseKey:"<button class='cardKey'>End of Conflict</button><button class='cardKey'>Cooperation</button><button class='cardKey'>Agreements</button><button class='cardKey'>Truces</button><button class='cardKey'>Peace</button><button class='cardKey'>Conflict</button>"
     ,reverseDesc:""
     ,lesson:"Disagreements can give me the space to discuss solutions."
 },
 {
     cardname:"VI of Wands"
     ,filename:"wands6"
-    ,uprightKey:""
+    ,uprightKey:"<button class='cardKey'>Success</button><button class='cardKey'>Triumph</button><button class='cardKey'>Rewards</button><button class='cardKey'>Recognition</button><button class='cardKey'>Praise</button><button class='cardKey'>Pride</button>"
     ,uprightDesc:""
-    ,reverseKey:""
+    ,reverseKey:"<button class='cardKey'>Failure</button><button class='cardKey'>Lack of Recognition</button><button class='cardKey'>No Rewards</button><button class='cardKey'>Lack of Achievement</button>"
     ,reverseDesc:""
     ,lesson:"My successes are worth celebrating"
 },
 {
     cardname:"VII of Wands"
     ,filename:"wands7"
-    ,uprightKey:""
+    ,uprightKey:"<button class='cardKey'>Protectiveness</button><button class='cardKey'>Standing Up For Yourself</button><button class='cardKey'>Defending Yourself</button><button class='cardKey'>Protecting Territory</button>"
     ,uprightDesc:""
-    ,reverseKey:""
+    ,reverseKey:"<button class='cardKey'>Giving Up</button><button class='cardKey'>Admitting Defeat</button><button class='cardKey'>Yielding</button><button class='cardKey'>Lack of Self-belief</button><button class='cardKey'>Surrender</button>"
     ,reverseDesc:""
     ,lesson:"I defend my boundaries."
 },
 {
     cardname:"VIII of Wands"
     ,filename:"wands8"
-    ,uprightKey:""
+    ,uprightKey:"<button class='cardKey'>Movement</button><button class='cardKey'>Speed</button><button class='cardKey'>Progress</button><button class='cardKey'>Quick Decisions</button><button class='cardKey'>Sudden Changes</button><button class='cardKey'>Excitement</button>"
     ,uprightDesc:""
-    ,reverseKey:""
+    ,reverseKey:"<button class='cardKey'>Waiting</button><button class='cardKey'>Delays</button><button class='cardKey'>Chaos</button><button class='cardKey'>Losing Momentum</button><button class='cardKey'>Hastiness</button><button class='cardKey'>Being Unprepared</button>"
     ,reverseDesc:""
     ,lesson:"I can handle and adapt to the demands of life."
 },
 {
     cardname:"IX of Wands"
     ,filename:"wands9"
-    ,uprightKey:""
+    ,uprightKey:"<button class='cardKey'>Last Stand</button><button class='cardKey'>Persistence</button><button class='cardKey'>Resilience</button><button class='cardKey'>Perseverance</button><button class='cardKey'>Close to Success</button><button class='cardKey'>Fatigue</button>"
     ,uprightDesc:""
-    ,reverseKey:""
+    ,reverseKey:"<button class='cardKey'>Stubbornness</button><button class='cardKey'>Rigidity</button><button class='cardKey'>Defensiveness</button><button class='cardKey'>Refusing Compromise</button><button class='cardKey'>Giving Up</button>"
     ,reverseDesc:""
     ,lesson:"I am resilient."
 },
 {
     cardname:"X of Wands"
     ,filename:"wands10"
-    ,uprightKey:""
+    ,uprightKey:"<button class='cardKey'>Burden</button><button class='cardKey'>Responsibility</button><button class='cardKey'>Duty</button><button class='cardKey'>Stress</button><button class='cardKey'>Obligation</button><button class='cardKey'>Burning Out</button><button class='cardKey'>Struggles</button>"
     ,uprightDesc:""
-    ,reverseKey:""
+    ,reverseKey:"<button class='cardKey'>Failure to Delegate</button><button class='cardKey'>Shouldering Too Much Responsibility</button><button class='cardKey'>Collapse</button><button class='cardKey'>Breakdown</button>"
     ,reverseDesc:""
     ,lesson:"I can differentiate between my responsibilities and those of others."
 },
 {
     cardname:"Page of Wands"
     ,filename:"wands11"
-    ,uprightKey:""
+    ,uprightKey:"<button class='cardKey'>Adventure</button><button class='cardKey'>Excitement</button><button class='cardKey'>Fresh Ideas</button><button class='cardKey'>Cheerfulness</button><button class='cardKey'>Energetic</button><button class='cardKey'>Fearless</button><button class='cardKey'>Extroverted</button>"
     ,uprightDesc:""
-    ,reverseKey:""
+    ,reverseKey:"<button class='cardKey'>Hasty</button><button class='cardKey'>Impatient</button><button class='cardKey'>Lacking Ideas</button><button class='cardKey'>Tantrums</button><button class='cardKey'>Laziness</button><button class='cardKey'>Boring</button><button class='cardKey'>Unreliable</button><button class='cardKey'>Distracted</button>"
     ,reverseDesc:""
     ,lesson:"There is so much in this world that can fill me with awe and wonder."
 },
 {
     cardname:"Knight of Wands"
     ,filename:"wands12"
-    ,uprightKey:""
+    ,uprightKey:"<button class='cardKey'>Courageous</button><button class='cardKey'>Energetic</button><button class='cardKey'>Charming</button><button class='cardKey'>Hero</button><button class='cardKey'>Rebellious</button><button class='cardKey'>Hot-temperd</button><button class='cardKey'>Free Spirit</button>"
     ,uprightDesc:""
-    ,reverseKey:""
+    ,reverseKey:"<button class='cardKey'>Arrogant</button><button class='cardKey'>Reckless</button><button class='cardKey'>Impatient</button><button class='cardKey'>Lack of Self Control</button><button class='cardKey'>Volative</button><button class='cardKey'>Domineering</button>"
     ,reverseDesc:""
     ,lesson:"There are no limits to my energy and sense of wonder."
 },
 {
     cardname:"Queen of Wands"
     ,filename:"wands13"
-    ,uprightKey:""
+    ,uprightKey:"<button class='cardKey'>Confident<button class='cardKey'>Self-assured<button class='cardKey'>Passionate<button class='cardKey'>Determined<button class='cardKey'>Social<button class='cardKey'>Charismatic<button class='cardKey'>Optimistic<button class='cardKey'>Vivacious"
     ,uprightDesc:""
-    ,reverseKey:""
+    ,reverseKey:"<button class='cardKey'>Demanding<button class='cardKey'>Vengeful<button class='cardKey'>Low Confidence<button class='cardKey'>Jealous<button class='cardKey'>Selfish<button class='cardKey'>Temperamental"
     ,reverseDesc:""
     ,lesson:"I inspire others through my passion and determination."
 },
 {
     cardname:"King of Wands"
     ,filename:"wands14"
-    ,uprightKey:""
+    ,uprightKey:"<button class='cardKey'>Leadership<button class='cardKey'>Vision<button class='cardKey'>Big Picture<button class='cardKey'>Taking Control<button class='cardKey'>Daring Decisions<button class='cardKey'>Boldness<button class='cardKey'>Optimism"
     ,uprightDesc:""
-    ,reverseKey:""
+    ,reverseKey:"<button class='cardKey'>Forceful<button class='cardKey'>Domineering<button class='cardKey'>Tyrant<button class='cardKey'>Vicious <button class='cardKey'>Powerless<button class='cardKey'>Ineffective<button class='cardKey'>Weak Leader"
     ,reverseDesc:""
     ,lesson:"I have the vision to build the life I want."
 },
@@ -735,18 +735,10 @@ function tarotCard1(){
         showDesc1.setAttribute("onclick","showDesc1()");
         document.getElementById("showDesc1").appendChild(showDesc1);
 
-        if (reverseNum == 0) {
-            firstcardInfo = 
-            "<h3>Keywords</h3>" + "<p>" + tarotList[tarotRandNum].uprightKey + "</p>" +
-            "<h3>Description</h3>" + "<p>" + tarotList[tarotRandNum].uprightDesc + "</p>";
-            firstcardLess = "<p>This card's lesson:<p><h3>" + tarotList[tarotRandNum].lesson +"</h3>";
-        }
-        else{
-            firstcardInfo = 
-            "<h3>Keywords</h3>" + "<p>" + tarotList[tarotRandNum].reverseKey + "</p>" +
-            "<h3>Description</h3>" + "<p>" + tarotList[tarotRandNum].reverseDesc + "</p>";
-            firstcardLess = "<p>This card's lesson:<p><h3>" + tarotList[tarotRandNum].lesson +"</h3>";
-        }
+        firstcardInfo = 
+        "<h3>Keywords</h3>" + "<p>" + tarotList[tarotRandNum].uprightKey + "</p>" +
+        "<h3>Description</h3>" + "<p>" + tarotList[tarotRandNum].uprightDesc + "</p>";
+        firstcardLess = "<p>This card's lesson:<p><h3>" + tarotList[tarotRandNum].lesson +"</h3>";
 
         tarotList.splice(tarotRandNum,1);
     }
@@ -767,18 +759,10 @@ function tarotCard1(){
         showDesc1.setAttribute("onclick","showDesc1()");
         document.getElementById("showDesc1").appendChild(showDesc1);
 
-        if (reverseNum == 0) {
-            firstcardInfo = 
-            "<h3>Keywords</h3>" + "<p>" + tarotList[tarotRandNum].uprightKey + "</p>" +
-            "<h3>Description</h3>" + "<p>" + tarotList[tarotRandNum].uprightDesc + "</p>";
-            firstcardLess = "<p>This card's lesson:<p><h3>" + tarotList[tarotRandNum].lesson +"</h3>";
-        }
-        else{
-            firstcardInfo = 
-            "<h3>Keywords</h3>" + "<p>" + tarotList[tarotRandNum].reverseKey + "</p>" +
-            "<h3>Description</h3>" + "<p>" + tarotList[tarotRandNum].reverseDesc + "</p>";
-            firstcardLess = "<p>This card's lesson:<p><h3>" + tarotList[tarotRandNum].lesson +"</h3>";
-        }
+        firstcardInfo = 
+        "<h3>Keywords</h3>" + "<p>" + tarotList[tarotRandNum].reverseKey + "</p>" +
+        "<h3>Description</h3>" + "<p>" + tarotList[tarotRandNum].reverseDesc + "</p>";
+        firstcardLess = "<p>This card's lesson:<p><h3>" + tarotList[tarotRandNum].lesson +"</h3>";
 
         tarotList.splice(tarotRandNum,1);
     }
@@ -804,18 +788,10 @@ function tarotCard2(){
         showDesc2.setAttribute("onclick","showDesc2()");
         document.getElementById("showDesc2").appendChild(showDesc2);
 
-        if (reverseNum == 0) {
-            secondcardInfo = 
-            "<h3>Keywords</h3>" + "<p>" + tarotList[tarotRandNum].uprightKey + "</p>" +
-            "<h3>Description</h3>" + "<p>" + tarotList[tarotRandNum].uprightDesc + "</p>";
-            secondcardLess = "<p>This card's lesson:<p><h3>" + tarotList[tarotRandNum].lesson +"</h3>";
-        }
-        else{
-            secondcardInfo = 
-            "<h3>Keywords</h3>" + "<p>" + tarotList[tarotRandNum].reverseKey + "</p>" +
-            "<h3>Description</h3>" + "<p>" + tarotList[tarotRandNum].reverseDesc + "</p>";
-            secondcardLess = "<p>This card's lesson:<p><h3>" + tarotList[tarotRandNum].lesson +"</h3>";
-        }
+        secondcardInfo = 
+        "<h3>Keywords</h3>" + "<p>" + tarotList[tarotRandNum].uprightKey + "</p>" +
+        "<h3>Description</h3>" + "<p>" + tarotList[tarotRandNum].uprightDesc + "</p>";
+        secondcardLess = "<p>This card's lesson:<p><h3>" + tarotList[tarotRandNum].lesson +"</h3>";
         
         tarotList.splice(tarotRandNum,1);
     }
@@ -836,18 +812,10 @@ function tarotCard2(){
         showDesc2.setAttribute("onclick","showDesc2()");
         document.getElementById("showDesc2").appendChild(showDesc2);
 
-        if (reverseNum == 0) {
-            secondcardInfo = 
-            "<h3>Keywords</h3>" + "<p>" + tarotList[tarotRandNum].uprightKey + "</p>" +
-            "<h3>Description</h3>" + "<p>" + tarotList[tarotRandNum].uprightDesc + "</p>";
-            secondcardLess = "<p>This card's lesson:<p><h3>" + tarotList[tarotRandNum].lesson +"</h3>";
-        }
-        else{
-            secondcardInfo = 
-            "<h3>Keywords</h3>" + "<p>" + tarotList[tarotRandNum].reverseKey + "</p>" +
-            "<h3>Description</h3>" + "<p>" + tarotList[tarotRandNum].reverseDesc + "</p>";
-            secondcardLess = "<p>This card's lesson:<p><h3>" + tarotList[tarotRandNum].lesson +"</h3>";
-        }
+        secondcardInfo = 
+        "<h3>Keywords</h3>" + "<p>" + tarotList[tarotRandNum].reverseKey + "</p>" +
+        "<h3>Description</h3>" + "<p>" + tarotList[tarotRandNum].reverseDesc + "</p>";
+        secondcardLess = "<p>This card's lesson:<p><h3>" + tarotList[tarotRandNum].lesson +"</h3>";
 
         tarotList.splice(tarotRandNum,1);
 
@@ -874,18 +842,10 @@ function tarotCard3(){
         showDesc3.setAttribute("onclick","showDesc3()");
         document.getElementById("showDesc3").appendChild(showDesc3);
 
-        if (reverseNum == 0) {
-            thirdcardInfo = 
-            "<h3>Keywords</h3>" + "<p>" + tarotList[tarotRandNum].uprightKey + "</p>" +
-            "<h3>Description</h3>" + "<p>" + tarotList[tarotRandNum].uprightDesc + "</p>";
-            thirdcardLess = "<p>This card's lesson:<p><h3>" + tarotList[tarotRandNum].lesson +"</h3>";
-        }
-        else{
-            thirdcardInfo = 
-            "<h3>Keywords</h3>" + "<p>" + tarotList[tarotRandNum].reverseKey + "</p>" +
-            "<h3>Description</h3>" + "<p>" + tarotList[tarotRandNum].reverseDesc + "</p>";
-            thirdcardLess = "<p>This card's lesson:<p><h3>" + tarotList[tarotRandNum].lesson +"</h3>";
-        }
+        thirdcardInfo = 
+        "<h3>Keywords</h3>" + "<p>" + tarotList[tarotRandNum].uprightKey + "</p>" +
+        "<h3>Description</h3>" + "<p>" + tarotList[tarotRandNum].uprightDesc + "</p>";
+        thirdcardLess = "<p>This card's lesson:<p><h3>" + tarotList[tarotRandNum].lesson +"</h3>";
 
         tarotList.splice(tarotRandNum,1);
     }
@@ -906,18 +866,10 @@ function tarotCard3(){
         showDesc3.setAttribute("onclick","showDesc3()");
         document.getElementById("showDesc3").appendChild(showDesc3);
 
-        if (reverseNum == 0) {
-            thirdcardInfo = 
-            "<h3>Keywords</h3>" + "<p>" + tarotList[tarotRandNum].uprightKey + "</p>" +
-            "<h3>Description</h3>" + "<p>" + tarotList[tarotRandNum].uprightDesc + "</p>";
-            thirdcardLess = "<p>This card's lesson:<p><h3>" + tarotList[tarotRandNum].lesson +"</h3>";
-        }
-        else{
-            thirdcardInfo = 
-            "<h3>Keywords</h3>" + "<p>" + tarotList[tarotRandNum].reverseKey + "</p>" +
-            "<h3>Description</h3>" + "<p>" + tarotList[tarotRandNum].reverseDesc + "</p>";
-            thirdcardLess = "<p>This card's lesson:<p><h3>" + tarotList[tarotRandNum].lesson +"</h3>";
-        }
+        thirdcardInfo = 
+        "<h3>Keywords</h3>" + "<p>" + tarotList[tarotRandNum].reverseKey + "</p>" +
+        "<h3>Description</h3>" + "<p>" + tarotList[tarotRandNum].reverseDesc + "</p>";
+        thirdcardLess = "<p>This card's lesson:<p><h3>" + tarotList[tarotRandNum].lesson +"</h3>";
 
         tarotList.splice(tarotRandNum,1);
     }
