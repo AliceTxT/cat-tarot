@@ -93,108 +93,108 @@ var tarotList = [
     cardname:"Wheel of Fortune"
     ,filename:"major10"
     ,uprightKey:"<button class='cardKey'>Change</button><button class='cardKey'>Cycles</button><button class='cardKey'>Inevitable Fate</button><button class='cardKey'>Luck</button><button class='cardKey'>Unexpected Events</button>"
-    ,uprightDesc:""
+    ,uprightDesc:"<p>The Wheel of Fortune turns evermore, seemingly to communicate that life is made up of both good and bad times, and that the cycle is one that we cannot control. When you have good moments in your life, make sure that you enjoy to the fullest, for what comes up must always go down. The same is true in reverse - when you are in a bad situation, things will eventually become better again. </p><p>Greater forces that are outside of human control are at work here. The same forces that govern the changing of the seasons, or the rising and setting of the sun is also the master of luck and the fate of individuals. Where it lands is as random as chance - you may find yourself at either the top or bottom, but remember that no matter what the outcome it may not last for very long, for the wheel always turns.</p>"
     ,reverseKey:"<button class='cardKey'>Bad Luck</button><button class='cardKey'>Lack of Control</button><button class='cardKey'>Clinging to Control</button><button class='cardKey'>Unwelcome Changes</button>"
-    ,reverseDesc:""
+    ,reverseDesc:"<p>When the wheel is reversed, it means that luck has not been on your side and misfortunes have been following you. When it's associated with this card, you must understand that these are due to external influences that you cannot control. Like the wheel, our luck and our fate is always in motion, and sometimes we are on the bottom. Be assured that the wheel will turn again, and you will be okay again soon.</p><p>What you shouldn't do however, is cling to the illusion of control. Perhaps in this turn of the wheel, the lesson is to learn to let go and release. There are things that cannot be moved by human will and action alone. When we do not let go, it can bring only more suffering, for you may blame yourself for actions that could not have altered the situation. When we learn to accept, we also learn to forgive ourselves. </p>"
     ,lesson:"Change is inevitable. To adapt and flow with the change is resilience."
 },
 {
     cardname:"Justice"
     ,filename:"major11"
     ,uprightKey:"<button class='cardKey'>Justice</button><button class='cardKey'>Consequences</button><button class='cardKey'>Truth</button><button class='cardKey'>Integrity</button><button class='cardKey'>Cause and Effect</button>"
-    ,uprightDesc:""
+    ,uprightDesc:"<p>The decisions that you make now have long-term effects in all things, both for yourself and others. There will always come a time where you will be judged. The Justice tarot card appearing in a reading signals that a judgment will be made fairly and accordingly. The decisions that you have made in the past will be carefully weighed with fairness.</p><p>If you have been wronged, this card's appearance may bring you relief. On the other hand, if your actions caused pain to others, this card serves as a warning. Her appearance represents a chance for you to change your actions now for a better future. When a tarot card reading shows the figure of justice, it is time to account for your actions.</p>Another meaning of the Justice card is truth. Learn the truth about others and yourself, speak and know the truth before passing a judgment. By following the right procedure to learn the truth, you will understand what your tasks are.<p></p><p>Another meaning of Justice Tarot card during a reading is to symbolize that attention is needed. If you have been unsure about something, it is time to get a solution once and for all.</p>"
     ,reverseKey:"<button class='cardKey'>Injustice</button><button class='cardKey'>Dishonesty</button><button class='cardKey'>Unaccountability</button>"
-    ,reverseDesc:""
+    ,reverseDesc:"<p>A reversed Justice tarot card could indicate various things. One Justice reversal meaning is to show you are living in denial. You are not willing to accept the consequences of your actions or others.</p><p>You must however, be aware that these are actions that are in the past. Your future depends on your actions today - and what you will do to tip the scales in balance again. How can you make up for your wrongs? Taking action gives you a chance to change and stop judging yourself.</p>"
     ,lesson:"Everyone is accountable for their own actions."
 },
 {
     cardname:"Hanged Cat"
     ,filename:"major12"
     ,uprightKey:"<button class='cardKey'>Sacrifice</button><button class='cardKey'>Uncertainty</button><button class='cardKey'>Waiting</button><button class='cardKey'>Perspective</button>"
-    ,uprightDesc:""
+    ,uprightDesc:"<p>The Hanged Cat understands that his position is a sacrifice that he needed to make in order to progress forward - whether as repentance for past wrongdoings, or a calculated step backward to recalculate his path onward. This time he spends here will not be wasted, he does this as part of his progression forward.</p><p>The Hanged Man card reflects a particular need to suspend certain action. As a result, this might indicate a certain period of indecision. In fact, it would be ultimately the best if you are capable of stalling certain actions in order to ensure that you have more time to reflect on making critical decisions, this will ultimately be the best.</p>"
     ,reverseKey:"<button class='cardKey'>Stalling</button><button class='cardKey'>Stagnation</button><button class='cardKey'>Avoiding Sacrifice</button><button class='cardKey'>Needless Sacrifice</button>"
-    ,reverseDesc:""
+    ,reverseDesc:"<p>The reversal meaning of the Hanged Cat card represents a very specific period of time during which you feel as if you are sacrificing a significant amount of time while getting nothing in return. You might have felt as if certain things are at a state of an absolute standstill without any particular resolution or movement. It’s as if you are putting your entire effort and attention into something but nothing turns out as it should.</p>"
     ,lesson:"Awakenings cannot be forced, but we can be open to them when their time comes."
 },
 {
     cardname:"Death"
     ,filename:"major13"
     ,uprightKey:"<button class='cardKey'>Metamorphosis</button><button class='cardKey'>Change</button><button class='cardKey'>Transformation</button><button class='cardKey'>Endings</button><button class='cardKey'>Letting Go</button>"
-    ,uprightDesc:""
+    ,uprightDesc:"<p>Death is one of the most feared cards in a Tarot Deck, and it is very misunderstood. Many people avoid mentioning this card because it has that much power. Most times, people take the name of the card literally. However, the real meaning within the Death card is one of the most positive in the whole deck.</p><p>The Death card signals that one major phase in your life is ending, and a new one is going to start. You just need to close one door, so the new one will open. The past needs to be placed behind you, so you can focus your energy on what is ahead of you.</p><p>Another meaning is that you are going to go through a major change, transition, or transformation. The old version of you needs to ‘die’ to allow the new you to be created. This can be a scary time for you because you may be unsure of what will happen in the future. Even if you are scared, you should welcome the change because you are opening the door to new life events.</p>Death can also mean that you need to let go of any unhealthy attachments that you have in your life. This is an important part of life, so learning to keep moving forward is one of the lessons Death teaches us.<p></p>"
     ,reverseKey:"<button class='cardKey'>Fear of Change</button><button class='cardKey'>Resisting Change</button><button class='cardKey'>Stagnation</button><button class='cardKey'>Repeating Negative Patterns</button>"
-    ,reverseDesc:""
+    ,reverseDesc:"<p>The Death reversal meaning is still about change, but that you have been resisting it. You could be worried about letting go of the past, or you could not be sure of the changes that you need to make to go forward.<p></p>Resisting the change and holding onto the past can limit your future, which can cause you to feel like you are in limbo. You should take some time to assess the ways that you have been approaching changes in your life. You may find you have been halting the changes that you need due to fears of the unknown. While you can still be afraid, you should trust that you are taking the right steps and move forward. Life moves on, so fighting passing time is only going to leave you with regrets. Death does not have to be a card of regret, especially if you heed its warning.</p>"
     ,lesson:"Loss can open the doorway for a new beginning."
 },
 {
     cardname:"Temperance"
     ,filename:"major14"
     ,uprightKey:"<button class='cardKey'>Balance</button><button class='cardKey'>Peace</button><button class='cardKey'>Moderation</button><button class='cardKey'>Patience</button><button class='cardKey'>Finding Meaning</button>"
-    ,uprightDesc:""
+    ,uprightDesc:"<p>In moments where there is anxiety or great stress, you have been able to remain calm throughout. The Temperance tarot card suggests moderation and balance, coupled with a lot of patience. Where this card appears, there is the suggestion that extremity in any situation is to be avoided.</p><p>The Temperance card implies that you have a clear vision and know what you want to achieve. This is an indication of higher learning, which is a critical attribute in the journey of life. The Temperance card, in relation to other people, shows that you are able to adapt and work in harmony with your community, your coworkers and your loved ones.</p><p>Temperance may also indicate a time to evaluate and re-examine the priorities you have chosen. This will help you create a balance between your outer and inner self.</p>"
     ,reverseKey:"<button class='cardKey'>Imbalance</button><button class='cardKey'>Extremes</button><button class='cardKey'>Excess</button><button class='cardKey'>Recklessness</button><button class='cardKey'>Hastiness</button>"
-    ,reverseDesc:""
+    ,reverseDesc:"<p>Temperance in reversed is a reflection of something that is out of balance and may be causing stress and anxiety. A Temperance in reversal may also be used as a warning,  if you take a certain path, it would lead to turbulence and excess.</p><p>Lack of a long-term plan or vision may also be the Temperance reversal meaning. This creates a lack of purpose for you, leaving you feeling lopsided as you search here and there for what you should be doing. You must reflect and think carefully about what needs to change. Temperance reminds us that all things are only good in moderation, and that we must examine in which aspects of our lives we are breaking the balance.</p>"
     ,lesson:"I direct my energy and resources to find balance."
 },
 {
     cardname:"Devil"
     ,filename:"major15"
     ,uprightKey:"<button class='cardKey'>Oppression</button><button class='cardKey'>Addiction</button><button class='cardKey'>Obsession</button><button class='cardKey'>Excess</button><button class='cardKey'>Powerlessness</button><button class='cardKey'>Limitations</button>"
-    ,uprightDesc:""
+    ,uprightDesc:"<p>Getting the devil card in your reading shows that you have feelings of entrapment, emptiness and lack of fulfillment in your life. It might also mean that you are a slave to materialism and opulence and no matter how hard you try, you just can’t seem to shake off the feeling of wanting to indulge in luxurious living. </p><p>You might be aware that this kind of lifestyle is leading you down the rabbit hole, but you have that feeling of not having any form of control over your actions or urges.</p><p>Addiction to substances or material pleasures can also be the reason for your feelings of powerlessness and entrapment. In situations such as these, you may feel as though you are a slave, unable to control your impulses or willpower to direct yourself towards something other than the satisfaction of these desires. </p>"
     ,reverseKey:"<button class='cardKey'>Independence</button><button class='cardKey'>Freedom</button><button class='cardKey'>Revelation</button><button class='cardKey'>Reclaiming Power</button><button class='cardKey'>Reclaiming Control</button>"
-    ,reverseDesc:""
+    ,reverseDesc:"<p>The upside down meaning of the Devil card can be the moment when an individual becomes self-aware and breaks all of the chains that come with addiction and poor habits. It might be because they are tired of running in circles and are in need of change.</p><p>But one thing is usually clear – breaking off these chains, especially those of addiction is never easy. So, one has to be prepared to make the necessary changes that might initially seem painful to make the adjustments that will pay off in the end by being able to find your true self again.</p><p>Self-assessment is called for in this case and the individual needs to take some time and list all of the things that they need to get rid of. And once that has been done, and then it would be time for them to embark on the difficult journey of self-improvement.</p>"
     ,lesson:"By redeeming the parts of myself that my ego banishes, I become whole."
 },
 {
     cardname:"Tower"
     ,filename:"major16"
     ,uprightKey:"<button class='cardKey'>Disaster</button><button class='cardKey'>Sudden Upheaval</button><button class='cardKey'>Destruction</button><button class='cardKey'>Trauma</button><button class='cardKey'>Chaos</button>"
-    ,uprightDesc:""
+    ,uprightDesc:"<p>The Tower represents change in the most radical and momentous sense. It is for this reason that the card itself visually looks so unnerving. But it doesn't necessarily have to be truly frightening or ominous. Because at the heart of this card, its message is foundational, groundbreaking change.</p><p>The kind of event that the Tower card marks does not have to be something terrible, like a disaster or a great loss.  Change itself is a normal part of life that one has to embrace. But it can sometimes strike fear, for it means that we must abandon the truths that we have known prior to this event. The old ways are no longer useful, and you must find another set of beliefs, values and processes to take their place.</p><p>Be positive, it is time for you to replace the old foundations of the past with something that is more genuine and will serve you better in what is to come.</p>"
     ,reverseKey:"<button class='cardKey'>Averting Disaster</button><button class='cardKey'>Delaying the Inevitable</button><button class='cardKey'>Fear of Change</button>"
-    ,reverseDesc:""
+    ,reverseDesc:"<p>When you get the Tower card reversed, you can feel some crisis looming along the horizon, and you are struggling as much as you can to try and avoid its manifestation. What you have not realized is that these breakdowns can be beneficial in breaking down your reliance on something that is false. The tower is built on faulty foundations, and it must fall. Though the destruction will be painful, the humbleness resulting from it can bring us peace.</p><p>What you relied on will no longer be there for you. Do not take this as a drastic and depressing change, it is time for you to become more self-reliant. </p>"
     ,lesson:"I have the courage to break the structures that need to be broken."
 },
 {
     cardname:"Star"
     ,filename:"major17"
     ,uprightKey:"<button class='cardKey'>Hope</button><button class='cardKey'>Inspiration</button><button class='cardKey'>Positivity</button><button class='cardKey'>Faith</button><button class='cardKey'>Rejuvenation</button>"
-    ,uprightDesc:""
+    ,uprightDesc:"<p>The Star brings hope, renewed power, and strength to carry on with life. It shows how abundantly blessed you are by the universe as evidenced by the various things around you. Remember that you hold within you all that you need for your fulfillment - the only thing that you need is courage. For this, you have all reasons to rejoice. To see this card is a message to have faith, for the universe will bless you and bring forth all that you need.</p><p>To receive the Star in your reading means that you have gone and passed through a terrible life challenge. You have managed to go through this without losing your hope. While you suffered, you perhaps were not aware of your own strength, but you are now perhaps recognizing that the loss helped you discover your own resilience and inner power. It is only now that you can really appreciate all that you have.</p>"
     ,reverseKey:"<button class='cardKey'>Hopelessness</button><button class='cardKey'>Negativity</button><button class='cardKey'>Lack of Faith</button><button class='cardKey'>Despondence</button>"
-    ,reverseDesc:""
+    ,reverseDesc:"<p>When the Star card is reversed, it means that you are feeling as though everything has turned against you. The challenges that you would normally see as exciting seem instead to make you feel as though you cannot overcome them. You have lost faith in something, whether inside yourself or with something you normally find dear.</p><p>Without hope, without faith, we cannot find the motivation to progress forward in the challenges that we face. Where in your life are you feeling hopeless? In what ways do you already feel defeated? And how does that affect your actions? The star reversed asks us to nurture our sense of hope and positive energy to help propel our actions with joy instead of fear.</p>"
     ,lesson:"When all is lost, my hope still shines like a guiding star. I will follow it."
 },
 {
     cardname:"Moon"
     ,filename:"major18"
     ,uprightKey:"<button class='cardKey'>Illusion</button><button class='cardKey'>Intuition</button><button class='cardKey'>Confusion</button><button class='cardKey'>Complexity</button><button class='cardKey'>Secrets</button><button class='cardKey'>Unconsciour</button>"
-    ,uprightDesc:""
+    ,uprightDesc:"<p>On one hand, the Moon card can symbolize your imagination is taking the best of you. In the dark of the night, you are taking a path that you are unsure of, for there could be danger lurking in its depths. The moon's light can bring you clarity and understanding and you should allow your intuition to guide you through this darkness.</p><p>You need to be aware of the situations that are causing fear and anxiety in your mind, whether it is now or in the future. It alerts you not to allow inner disturbances and self-deception to take the best of you. These deep memories and fears must be let go, and the negative energies must be released and turned into something constructive.</p><p>Another reading of the Moon card is the existence of illusion. Some hidden truth must be discovered, for what you are seeing now may just be a trick of the light. You must search for the hidden forces that must be unraveled.</p>"
     ,reverseKey:"<button class='cardKey'>Fear</button><button class='cardKey'>Deception</button><button class='cardKey'>Misunderstanding</button><button class='cardKey'>Misinterpretation</button><button class='cardKey'>Clarity</button><button class='cardKey'>Understanding</button>"
-    ,reverseDesc:""
+    ,reverseDesc:"<p>A Moon reversal in a reading can sometimes indicate that the darker and more negative aspects of the moon are present in your life. It could represent confusion and unhappiness - you want to make progress, but you are not sure what is the right thing to do. You must deal with your anxiety and fears by overcoming them, for they are like shadows in the dark. It is time to believe in yourself and move forward. </p><p>The moon reversal meaning indicates that you are in an intuitive period or you have recently battled confusion, anxiety, and self-deception. It could be that you are misinterpreting how you have been feeling however you are starting to improve on this.</p><p>Another reversed moon meaning is that the forces of the night that are bringing you confusion are starting to dissipate. You have started managing your fears and anxiety. Whatever negative energies you have been facing are slowly fading away. It presents a liberating experience as you discover the positive side of things.</p>"
     ,lesson:"Knowing my unconscious biases help me differentiate between intuition and illusion."
 },
 {
     cardname:"Sun"
     ,filename:"major19"
     ,uprightKey:"<button class='cardKey'>Happiness</button><button class='cardKey'>Success</button><button class='cardKey'>Optimism</button><button class='cardKey'>Vitality</button><button class='cardKey'>Confidence</button><button class='cardKey'>Truth</button><button class='cardKey'>Positivity</button>"
-    ,uprightDesc:""
+    ,uprightDesc:"<p>The Sun card represents success, abundance, and radiance. Like the sun itself, it gives strength and vitality to all those that are lucky enough to feel its rays. There is much joy and happiness that is coming to you.</p><p>Because of your own personal fulfillment, you provide others with inspiration and joy as well. People are drawn to you because they are capable of seeing the warm and beautiful energy which you bring into their lives. You are also in a position in which you are capable of sharing your qualities as well as achievements with other people. You radiate love and affection towards those you care about the most.</p>The card shows that you have a significant sense of deserved confidence right now. Life is currently particularly good, and the sun is shining your way as you reach the goals that you set. The Sun is one of the cards in the tarot which provide nothing but good feelings and fulfillment.<p></p>"
     ,reverseKey:"<button class='cardKey'>Blocked Happiness</button><button class='cardKey'>Excessive Enthusiasm</button><button class='cardKey'>Pessimism</button><button class='cardKey'>Unrealistic Expectations</button><button class='cardKey'>Conceitedness</button>"
-    ,reverseDesc:""
+    ,reverseDesc:"<p>In the reversed position, the Sun indicates that you might have significant difficulties finding positive aspects to certain situations. The clouds might be blocking out the warmth and light that you need to progress. This might be preventing you from feeling confident and powerful. You may experience certain setbacks which are damaging your optimism and enthusiasm.</p><p>On the other hand, the Sun reversed might be indicative that you are being unrealistic. It might be a sign that you have an overly optimistic perception of certain situations. These are things that you need to take into account in order to ensure that you are on the right track and your successes continue as they do.</p>"
     ,lesson:"I feel the joy of being alive."
 },
 {
     cardname:"Judgement"
     ,filename:"major20"
     ,uprightKey:"<button class='cardKey'>Judgement</button><button class='cardKey'>Self-evaluation</button><button class='cardKey'>Awakening</button><button class='cardKey'>Purpose</button><button class='cardKey'>Reckoning</button>"
-    ,uprightDesc:""
+    ,uprightDesc:"<p>The traditional Judgement meaning focuses on the moment when we reflect and evaluate ourselves and our actions. It is through self-reflection that we can have a clearer and objective understanding about where we are now, and what we need to do in order to grow as humans. The Judgement card appearing in a reading signifies that you are coming close to this significant point in your life where you must start to evaluate yourself.</p><p>To see this card can also indicate that you are in a period of awakening, brought on by the act of self-reflection. You now have a clearer idea of what you need to change and how you need to be true yourself and your needs. This can mean making small changes to your daily life or making huge changes that not only affect you but the people close to you.</p>"
     ,reverseKey:"<button class='cardKey'>Self-doubt</button><button class='cardKey'>Lack of Self Awareness</button><button class='cardKey'>Doubt</button><button class='cardKey'>Self-loathing</button><button class='cardKey'>Failure to Learn Lessons</button>"
-    ,reverseDesc:""
+    ,reverseDesc:"<p>The reversed Judgement card can mean that you doubt and judge yourself too harshly. This could be causing you to miss opportunities that were awaiting you. The lost momentum causes you to fall behind in your plans, which can make it difficult to move forward. This means that you should not be cautious, but you should be moving forward with pride and confidence.</p><p>Another reading of the Judgement reversal card can be a push to take time out of your busy routine to reflect upon your life to this point, and what you have learned so far. You are most likely not giving yourself the time or space to fully think about the matter and learn the lessons you need to to be able to progress with awareness. You could also be too critical of your past actions, so you are not giving yourself the forgiveness to move forward. The mistakes that we have made in the past are learning tools, so they help us move though life. Focusing too hard on these mistakes can cause us to trip and fall.</p>"
     ,lesson:"I am awakening to my calling."
 },
 {
     cardname:"World"
     ,filename:"major21"
     ,uprightKey:"<button class='cardKey'>Completion</button><button class='cardKey'>Achievement</button><button class='cardKey'>Fulfilment</button><button class='cardKey'>Sense of Belonging</button><button class='cardKey'>Wholeness</button><button class='cardKey'>Harmony</button>"
-    ,uprightDesc:""
+    ,uprightDesc:"<p>To encounter the World in your cards is to encounter a great unity and wholeness. It symbolizes the moment when the inner and the outer worlds - self and other - become a single entity. There is a recognition that the individual self is profoundly linked with all other things, and that we all dance and sway along the flow of life to one rhythm. Not only do you hear this rhythm, but you participate in it - following the dips and the rises, the joys and the sorrows.</p><p>The World may indicate completion of a long-term project, study or any other major event in your life. It may also mean the birth of a child, marriage, graduation or any other thing that you have accomplished. The World card shows that you have a desire to give back to the community in various ways. You have a commitment to make the world a better place because you understand that everything is connected.</p>"
     ,reverseKey:"<button class='cardKey'>Unfinished</button><button class='cardKey'>Lack of Closure</button><button class='cardKey'>Lack of Achievement</button><button class='cardKey'>Incomplete Goals</button><button class='cardKey'>Emptiness</button>"
-    ,reverseDesc:""
+    ,reverseDesc:"<p>You are drawing near to something that marks the end of a journey or an era. You may have many accomplishments that have lined your path, but there is a strange emptiness that fills you when you look backwards upon it, as if you have all the pieces but they are not coming together. What is missing? Do you feel connected to what you're doing? Do you feel connected to others? What alienates you from feeling complete? From feeling whole?</p>"
     ,lesson:"I belong."
 },
 {
@@ -327,126 +327,126 @@ var tarotList = [
     cardname:"Ace of Swords"
     ,filename:"sword1"
     ,uprightKey:"<button class='cardKey'>Clarity</button><button class='cardKey'>Breakthrough</button><button class='cardKey'>New Idea</button><button class='cardKey'>Concentration</button><button class='cardKey'>Vision</button><button class='cardKey'>Force</button>"
-    ,uprightDesc:""
+    ,uprightDesc:"<p>With its sharp blade and representing the power of the intellect, the Ace of Swords has the ability to cut through deception and find truth. In layman's terms, this card represents that moment in which one can see the world from a new point of view, as a place that is filled with nothing but new possibilities. It is, therefore, the best time to work on your goals.</p><p>It might also be a good time for you to seek justice and the truth in all matters since your conscience is clear, and your thoughts are swift. If you rise to the occasion, your sharpness and clarity in thought will be rewarded.</p>"
     ,reverseKey:"<button class='cardKey'>Confusion</button><button class='cardKey'>Miscommunication</button><button class='cardKey'>Hostility</button><button class='cardKey'>Arguments</button><button class='cardKey'>Destruction</button>"
-    ,reverseDesc:""
+    ,reverseDesc:"<p>Getting a reversed Ace of Swords might mean that one's thoughts are confused, unsure and very chaotic. This isn’t a good time for one to make any decisions since they don’t have any clarity on what you should be doing, meaning that the chances of failure can be pretty high.</p><p>At this time, it would be better to prepare yourself and take baby steps - work methodically as you slowly move towards achieving your goals. This would be a good time to lay back and rationally think your way through each stage rather than acting on impulse, since everything appears in a blur and is not very clear at that moment. It might also be a good time to seek advice since things may not be as they seem.</p>"
     ,lesson:"Clarity and truth guide my decisions."
 },
 {
     cardname:"II of Swords"
     ,filename:"sword2"
     ,uprightKey:"<button class='cardKey'>Stalemate</button><button class='cardKey'>Difficult Choices</button><button class='cardKey'>Stuck in the Middle</button><button class='cardKey'>Denial</button><button class='cardKey'>Hidden Information</button>"
-    ,uprightDesc:""
+    ,uprightDesc:"<p>When we see the Two of Swords in a reading, we are encountering a stalemate. Two equal and opposing forces are joined in battle, and there seems to be no end in sight. Without something, or someone to intervene, this may continue indefinitely.</p><p>The Two of Swords is often related with balance and partnership. It signifies the need to keep your relationships balanced. You may find yourself struggling to maintain the current state of affairs, and may find yourself caught in the middle.  In regards to your work, you may be currently stuck in limbo and are perhaps waiting on another party's decision. Remain patient and avoid pressuring people in making their decision abruptly.</p><p>The Two of Swords meaning may depict a warning to have caution. You should avoid evading any issues that you are facing, since it will not solve your problems.</p>"
     ,reverseKey:"<button class='cardKey'>Indecision</button><button class='cardKey'>Hesitancy</button><button class='cardKey'>Anxiety</button><button class='cardKey'>Too Much Information</button><button class='cardKey'>No Right Choice</button><button class='cardKey'>Truth Revealed</button>"
-    ,reverseDesc:""
+    ,reverseDesc:"<p>The situation we see in the reversed Two of Swords is a stalemate of a legendary kind, one where two forces are battling each other. This battle can be representative of both something internal or external, and you are forced to be in between and be the decision maker. However, because neither party seems particularly pleasing to work with, you may find yourself confused, the pressure is too much, and you are unable to make a decision.</p><p>When you do make the decision, it will be choosing between two bad outcomes. Do not worry, the more important thing here is to make a choice, from then on, we can deal with whatever consequences come.</p>"
     ,lesson:"All decisions have their benefits and consequences. There is no perfect choice."
 },
 {
     cardname:"III of Swords"
     ,filename:"sword3"
     ,uprightKey:"<button class='cardKey'>Heartbreak</button><button class='cardKey'>Sadness</button><button class='cardKey'>Grief</button><button class='cardKey'>Loss</button><button class='cardKey'>Trauma</button><button class='cardKey'>Tears</button>"
-    ,uprightDesc:""
+    ,uprightDesc:"<p>The Three of Swords depicts the message of rejection, betrayal, hurt and discouragement. In moments like these, we are well served by the mind. If you can think logically about it and prepare for the experience, the impact of this pain may be minimized.</p><p>But remember too, that pain and grief are a normal part of life, because they make us appreciate what joy and happiness we have, as well as teaching us. It is through pain that we learn to be avoid mistakes that could lead us into danger and grief. It is therefore a necessity in the journey of life. The Three of Swords therefore is a depiction of suffering that is meant to make us stronger, more careful and more vigilant.</p>"
     ,reverseKey:"<button class='cardKey'>Healing</button><button class='cardKey'>Forgiveness</button><button class='cardKey'>Recovery</button><button class='cardKey'>Reconciliation</button><button class='cardKey'>Repressed Emotions</button>"
-    ,reverseDesc:""
+    ,reverseDesc:"<p>The Three of Swords reversed indicates that have faced a recent loss, a break-up or a moment of grief. You may be still recovering from this, and your emotions have not completely calmed, making it difficult to move on. Although you may still be thinking of your past suffering, this card may be a signal that it's time to let go and look forwards towards life ahead of you, because there is much for you to enjoy.</p><p>Many don’t see this, and they end up being immersed in their own pain for too long, delaying their own recovery process. Don’t focus too much on what happened, renew your emotions and gather your courage. The reversed Three of Swords card is here to let you know that all difficult moments pass - they are not there to stay, and when we fall, we can also rise again.</p>"
     ,lesson:"Some truths are painful, but they are what I needed to hear."
 },
 {
     cardname:"IV of Swords"
     ,filename:"sword4"
     ,uprightKey:"<button class='cardKey'>Rest</button><button class='cardKey'>Recuperation</button><button class='cardKey'>Peace</button><button class='cardKey'>Self-protection</button><button class='cardKey'>Sanctuary</button>"
-    ,uprightDesc:""
+    ,uprightDesc:"<p>The Four of Swords can signal that it is time to retreat. The Four of Swords is a moment of rest. We are still tender from the wounds that were inflicted, and the battle weapons still hang above us as a grim reminder of what was lost. In order to continue and re-emerge in your daily life, you must take the time now to take a breather.</p><p>You need to gain strength and clarity in a quiet environment away from your current circumstances. It is time to re-evaluate, organize and understand your priorities. This helps to rejuvenate one’s spirit, and you come out stronger than before.</p><p>The Four of Swords indicates it is time to gather new strength and prepare to face a new challenge. You have faced crisis after crisis, and it is wearing you out. You can face a new challenge only after getting away from everything and embracing a new atmosphere.</p>"
     ,reverseKey:"<button class='cardKey'>Recovery</button><button class='cardKey'>Awakening</button><button class='cardKey'>Re-entering the World</button><button class='cardKey'>Release from Isolation</button><button class='cardKey'>Restlessness</button><button class='cardKey'>Burnout</button>"
-    ,reverseDesc:""
+    ,reverseDesc:"<p>A reversed Four of Swords could mean restlessness. Your heart is willing to relax, but this is not what your mind wants. You feel that you have too much that is depending on you. Following this path is not advised, as it could have affects on your health.</p><p>You can continue to fight, but sometimes that is ineffectual and you must have enough awareness of your own strength to decide when to back out. To rest, to retreat, is a means of self love sometimes, and though you may try to push ahead, that will only make it difficult for you in the long term.</p>"
     ,lesson:"I deserve rest, peace and stillness."
 },
 {
     cardname:"V of Swords"
     ,filename:"sword5"
     ,uprightKey:"<button class='cardKey'>Arguments</button><button class='cardKey'>Disputes</button><button class='cardKey'>Aggression</button><button class='cardKey'>Bullying</button><button class='cardKey'>Intimidation</button><button class='cardKey'>Stress</button>"
-    ,uprightDesc:""
+    ,uprightDesc:"<p>This card indicates that you are engaging in a conflict of some nature. It can also suggest a disagreement with others, which leads to hostility and tension. Despite the fact that you think you’ve won, you might still lose in the big picture, because you have annoyed or hurt those that you have argued with, and as a result, you are on the road to isolating yourself. Perhaps, at the moment, you believed that it was more important to be right rather than appreciate and understand where the other side was coming from.</p><p>Right now, it's important to attempt to pick up the pieces. You still have the chance to act while the conflict is still fresh. What is more important to you? Mutual progress, or winning? This might require you to stand up to a conflict within yourself.</p>"
     ,reverseKey:"<button class='cardKey'>Reconciliation</button><button class='cardKey'>Resolution</button><button class='cardKey'>Compromise</button><button class='cardKey'>Revenge</button><button class='cardKey'>Regrt</button><button class='cardKey'>Remorse</button><button class='cardKey'>Cutting Losses</button>"
-    ,reverseDesc:""
+    ,reverseDesc:"<p>The Five of Swords reversal meaning shows you that all you want is for that particular period to be over so that you can forget and forgive. Because you are beginning to understand that winning is not everything, you will be capable of focusing your energy on something a lot more constructive and positive.</p><p>Another interpretation of this card in reverse is that the conflict you are experiencing is actually going to become more upsetting as you realize that there can only be losers. These are terms that you need to come to grips with.</p>"
     ,lesson:"I can choose to step back from a fight if the only thing on the line is my ego."
 },
 {
     cardname:"VI of Swords"
     ,filename:"sword6"
     ,uprightKey:"<button class='cardKey'>Moving On</button><button class='cardKey'>Departure</button><button class='cardKey'>Leaving Behind</button><button class='cardKey'>Distance</button><button class='cardKey'>Accepting Lessons</button>"
-    ,uprightDesc:""
+    ,uprightDesc:"<p>The meaning of the Six of Swords is that you are experiencing a transition of some kind, but one that is not happy and filled with regret. This transition will most likely be the result of decisions you made in the past, and now they are forcing you to leave something behind in order to move forward. Despite your sadness, you need to remember that moving on is the ideal option for your future.</p><p>Life is filled with moments when you are going to be forced into letting go of things that you have become attached to. This will be challenging. The Six of Swords shows the sadness that you may be feeling, but you have to remember that the pain will not last, so you should look instead to the future for strength.</p>"
     ,reverseKey:"<button class='cardKey'>Stuck in the Past</button><button class='cardKey'>Returning to Trouble</button><button class='cardKey'>Running Away from Problems</button><button class='cardKey'>Feeling Trapped</button>"
-    ,reverseDesc:""
+    ,reverseDesc:"<p>The Six of Swords reversed can indicate that you have been trying to move on and make the transitions you need. However, you may be experiencing challenges making these a reality. You may keep returning to the past, whether it's because there are issues that are not resolved, or you are questioning your decisions.</p><p>Another Six of Swords reversal meaning is that you have been resisting the transitions that life is giving you. You may feel that you are being forced into making moves before you wanted to or you do not want to move at all. In this case, you should think about the benefits of the moves, instead of the drawbacks.</p>"
     ,lesson:"I leave because I cannot heal in a place that reopens my wounds."
 },
 {
     cardname:"VII of Swords"
     ,filename:"sword7"
     ,uprightKey:"<button class='cardKey'>Lies</button><button class='cardKey'>Trickery</button><button class='cardKey'>Scheming</button><button class='cardKey'>Strategy</button><button class='cardKey'>Resourcefulness</button><button class='cardKey'>Sneakiness</button><button class='cardKey'>Cunning</button>"
-    ,uprightDesc:""
+    ,uprightDesc:"<p>The Seven of Swords in general, is said to be about betrayal and deception. When you get this card, it may imply that you or someone else in your life is having difficulty getting away with something. There are instances when we are forced to be sneaky, hoping that we will not be discovered. When we are found out, we have to face the consequences - whether it's embarrassment, punishment, or worse. Sometimes this happens when there are instances when you had to think on your feet, and did something that was somewhat shrewd and out of character. Now there is a danger of the secret coming out.</p><p>There are instances when the Seven of Swords may indicate the willingness to go solo. You may have the urge to explore and discover some things on your own. This can be an effective approach if you want to assert your independence and bypass group agreement. The Seven of Swords symbolism may be encouraging you to go on this path - sometimes innovation comes from a rogue genius.</p>"
     ,reverseKey:"<button class='cardKey'>Confession</button><button class='cardKey'>Conscience</button><button class='cardKey'>Regret</button><button class='cardKey'>Maliciousness</button><button class='cardKey'>Truth Revealed</button>"
-    ,reverseDesc:""
+    ,reverseDesc:"<p>The Seven of Swords reversed can have multiple meanings depending on the context of the other cards within the reading. It can suggest firstly a need to change your approach - the tactics you've been using are not working. </p><p>Or instead, a kind of renewal of conscience. You or someone in your circle may be deciding to unburden themselves with their guilt, and come clean about some piece of manipulation they have been involved in. Trust has been broken, but with a confession, you may be on the road to repairing it. There is a desire here to try and do things in a different way, one that is collaborative rather than independent.</p>"
     ,lesson:"I choose a path of principle and ethics, even if it is more difficult."
 },
 {
     cardname:"VIII of Swords"
     ,filename:"sword8"
     ,uprightKey:"<button class='cardKey'>Trapped</button><button class='cardKey'>Restricted</button><button class='cardKey'>Victimised</button><button class='cardKey'>Helpless</button><button class='cardKey'>Imprisonment</button>"
-    ,uprightDesc:""
+    ,uprightDesc:"<p>The general meaning in the Eight of Swords is that of a feeling of being trapped and victimized. You may feel powerless because, in your mind, you feel that changing the situation might be beyond you. This feeling of helplessness that you have, the feeling that you have no agency in your life, has played a major role in making your situation worse.</p><p>You have willingly relinquished the driver's seat in the journey of your own life, and it isn't going well for you. It is advisable for you to avoid making an important decision at this time since your judgment is likely clouded.</p><p>The good news is that because these traps are things that we create ourselves, we can also leave them if we put our minds to it. It is simply the matter of taking off the blindfold, and seeing beyond the limited perspective that we created for ourselves - to see the possibilities, and to recognize that you have your own internal power.</p>"
     ,reverseKey:"<button class='cardKey'>Freedom</button><button class='cardKey'>Release</button><button class='cardKey'>Taking Control</button><button class='cardKey'>Survivor</button><button class='cardKey'>Facing Fears</button><button class='cardKey'>Empowered</button><button class='cardKey'>Surrender</button>"
-    ,reverseDesc:""
+    ,reverseDesc:"<p>Getting the reversed Eight of Swords is a good sign, since it shows maturity and self-acceptance, and a recognition of one's own power and responsibility - especially after a long struggle of doubt. It means that one is capable of making conscious decisions because they are confident in who they are, and their power to affect change in both themselves and the world. It's time to free ones self from the past and proverbially clear out their closet, creating room for new things and experiences.</p>"
     ,lesson:"I can choose to see the truth."
 },
 {
     cardname:"IX of Swords"
     ,filename:"sword9"
     ,uprightKey:"<button class='cardKey'>Fear</button><button class='cardKey'>Anxiety</button><button class='cardKey'>Negativity</button><button class='cardKey'>Breaking Point</button><button class='cardKey'>Despair</button><button class='cardKey'>Nightmares</button><button class='cardKey'>Isolation</button>"
-    ,uprightDesc:""
+    ,uprightDesc:"<p>The Nine of Swords is often associated with fear and anxiety, about all the things that worry you and keep you up at night. Sometimes this card can be associated with trauma - one which may be shameful for you to confide with others about, and all the psychological responses that come from experiencing that trauma.</p><p>There is a sense of repetition within this card, that some event which has troubled you before, and one which you managed to either repress or run away from, is coming back again. Sharing your grief does at least provide an outlet for your pain and may release you from carrying this burden alone. Is there anyone that you can feel comfortable speaking to?</p>"
     ,reverseKey:"<button class='cardKey'>Recovery</button><button class='cardKey'>Learning to Cope</button><button class='cardKey'>Finding Help</button><button class='cardKey'>Shame</button><button class='cardKey'>Guilt</button>"
-    ,reverseDesc:""
+    ,reverseDesc:"<p>To come across the Nine of Swords reversed still signals something similar to the upright version - that you may find yourself being terrorized by nightmares, by anxiety and stress. Some trauma from your past is coming back, and you find the grief of unresolved issues overwhelming.</p><p>But here we also see hope, at least there is the desire to leave this nightmare. You must understand that this suffering will not cease until you yourself put in the effort to leave it. There is much work that you must do to drag yourself towards release. But just as you have a ways out, you must understand that you can still fall deeper into despair. Your job is to avoid that outcome, if you push forward you may find yourself out, but if you do not, you may find yourself sinking deeper.</p>"
     ,lesson:"I can be brave and act despite my anxiety."
 },
 {
     cardname:"X of Swords"
     ,filename:"sword10"
     ,uprightKey:"<button class='cardKey'>Ruin</button><button class='cardKey'>Failure</button><button class='cardKey'>Bitterness</button><button class='cardKey'>Exhaustion</button><button class='cardKey'>Dead End</button><button class='cardKey'>Victimisation</button><button class='cardKey'>Betrayal</button>"
-    ,uprightDesc:""
-    ,reverseKey:"<button class='cardKey'>Survival</button><button class='cardKey'>Improvemnt</button><button class='cardKey'>Healing</button><button class='cardKey'>Lessons Learend</button><button class='cardKey'>Despair</button><button class='cardKey'>Relapse</button>"
-    ,reverseDesc:""
+    ,uprightDesc:"<p>The Ten of Swords indicate a major disaster of some sort. There is a sense of betrayal that is indicated here. This seems to be a reminder that despite how much we try, we cannot control everything - there are things that are beyond our ability to change. Here, this situation is unavoidable. </p><p>The tale of the suit of swords is a powerful metaphor, one that ends in tragedy. The story as it unfolds from the ace to the ten is one where an untrained individual uses this weapon for faulty reasons - makes many mistakes, and then spends an entire lifetime attempting to run away from the power that he misused.</p><p>The Ten of Swords depicts that situation where your mentality is ‘poor me’, you feel like there is nothing you can do. Let go of what you have lost, and focus on the new path forward because that is where your life is meant to go.</p>"
+    ,reverseKey:"<button class='cardKey'>Survival</button><button class='cardKey'>Improvement</button><button class='cardKey'>Healing</button><button class='cardKey'>Lessons Learned</button><button class='cardKey'>Despair</button><button class='cardKey'>Relapse</button>"
+    ,reverseDesc:"<p>When we see any version of the Ten of Swords , the feelings are powerful. Whether reversed or upright, the card signals the finality of defeat. There is no way to avoid this tragedy - it has happened over a long course of events that have been a long time coming.</p><p>With the reversal though, also comes to a recognition that you have hit rock bottom, there is no more that is left for you to give. With that also comes the release that things can only get better and the cycle can start anew. But this release must be initiated by you. There is an opportunity being presented here to correct what has hurt you, but you must make the effort to climb out yourself. What has happened was terrible, but everyone has a part in the responsibility.</p>"
     ,lesson:"When I accept an ending, I also release myself from its power."
 },
 {
     cardname:"Page of Swords"
     ,filename:"sword11"
     ,uprightKey:"<button class='cardKey'>Curious</button><button class='cardKey'>Witty</button><button class='cardKey'>Chatty</button><button class='cardKey'>Inspired</button><button class='cardKey'>Vigilant</button><button class='cardKey'>Mental Agility</button>"
-    ,uprightDesc:""
+    ,uprightDesc:"<p>Bright and alert, the Page of Swords is someone who never seems to run out of ideas. They are curious, always asking questions, and gifted with a sharp tongue and quick wit to match. Their aptitude for language also makes them an incredible communicator, and with their love of ideas, you may find them always engaged in some passionate debate.</p><p>This card may indicate that you are very eager to execute an idea that you have been having or a project that you cooked up just recently. You are quite passionate about it, and you cannot wait to share the progress with others. Compared to your passionate heart, time seems to be standing still. It is time to be talkative. When a Page of Swords appears in a reading, it signifies communication and sharing of ideas. Whether it is someone else’s ideas or yours, it is time to open up and talk about them as long as it is a constructive.</p>"
     ,reverseKey:"<button class='cardKey'>Scatterbrained</button><button class='cardKey'>Cynical</button><button class='cardKey'>Insulting</button><button class='cardKey'>Rude</button><button class='cardKey'>Lack of Planning</button>"
-    ,reverseDesc:""
+    ,reverseDesc:"<p>When the Page of Swords is reversed, all the negative characteristics of them come out - and they may become almost dangerous. Being gifted with a sharp and alert mind, they may be using it for deception and manipulation. The sword that they wield may be used to create pain, their natural gift for language turned to a weapon. they may lack the understanding or the maturity to understand the suffering that they cause, feeling the rush that one gets upon lashing out.</p><p>On the other hand, this page may be someone of empty words or promises - who though loves talking, does not really talk about much of substance. Take care to show strength and action behind your words, for you may be damaging your reputation.</p>"
     ,lesson:"There is so much more in the world to know."
 },
 {
     cardname:"Knight of Swords"
     ,filename:"sword12"
     ,uprightKey:"<button class='cardKey'>Assertive</button><button class='cardKey'>Direct</button><button class='cardKey'>Impatient</button><button class='cardKey'>Intellectual</button><button class='cardKey'>Focused</button><button class='cardKey'>Perfectionist</button><button class='cardKey'>Ambitious</button>"
-    ,uprightDesc:""
+    ,uprightDesc:"<p>When we are thoroughly obsessed by a certain idea and strongly wish to manifest it, we are oftentimes so blinded by the actual desire for its fulfillment that we fail to note the difficulties which we may come across, or the actions and consequences that it could bring.</p><p>Once the knight sets forth towards his goals, there is absolutely no stopping him. He doesn’t see - and he doesn’t care - about any upcoming challenges. He is filled with sheer ambition, strength and determination to succeed with his quest no matter what. However, this determination could also blind him to see the potential consequences of his actions on others as he makes his way to success. He may charge forth into a very dangerous territory without preparation or actual foresight, and this could lead him to great danger.</p>"
     ,reverseKey:"<button class='cardKey'>Rude</button><button class='cardKey'>Tactlss</button><button class='cardKey'>Forceful</button><button class='cardKey'>Aggressive</button><button class='cardKey'>Vicious</button><button class='cardKey'>Arrogant</button>"
-    ,reverseDesc:""
+    ,reverseDesc:"<p>The reversed Knight of Swords suggests incredible impatience, impulsiveness alongside his bursting with energy. This Knight of Swords has a lot of energy but lacks any kind of direction, and this oftentimes results in them making rather rash decisions as well as pulling down other people with them.</p><p>Their thoughts are oftentimes scattered throughout without any actual organization or logic. They are most likely disorganized and unprepared for the things that they actually want to achieve. The Knight of Swords reversal meaning indicates that you still have a lot of miles to walk in order to get the valuable life experience that you need in order to overcome adversities along the way. This is something to consider.</p>"
     ,lesson:"I am not afraid of confrontation when it is needed."
 },
 {
     cardname:"Queen of Swords"
     ,filename:"sword13"
     ,uprightKey:"<button class='cardKey'>Honest</button><button class='cardKey'>Indendent</button><button class='cardKey'>Fair</button><button class='cardKey'>Constructive Criticism</button><button class='cardKey'>Objective</button><button class='cardKey'>Perceptive</button>"
-    ,uprightDesc:""
+    ,uprightDesc:"<p>This card means that you will need to become independent with your judgments. You must rely on the unbiased intelligence, which has you researching alternative viewpoints and thinking carefully on your decision. Compassion and empathy in these cases can distract you from your task, so you need you are trying to keep a strong objective view while avoiding getting emotions involved.</p><p>The Queen of Swords can also be about the way that we speak with others. This queen has the ability to tell people the way it is. This allows her to get her point across, so there is no confusion about what is being said. Above all, truth is important to her, so she feels no need to soften her comments, thoughts, or opinions. She also expects the same frankness from other people, so this means that you need to be clear with everything that is being said, even if it may hurt.</p>"
     ,reverseKey:"<button class='cardKey'>Pessimistic</button><button class='cardKey'>Malicious</button><button class='cardKey'>Manipulative</button><button class='cardKey'>Harsh</button><button class='cardKey'>Spiteful</button><button class='cardKey'>Decitful</button><button class='cardKey'>Unforgiving</button>"
-    ,reverseDesc:""
+    ,reverseDesc:"<p>The Queen of Swords reversed meaning is that you may be thinking too much with your heart, and you are becoming too emotionally involved with your current situation. You have to start thinking more objectively, because your emotions could lead you astray. Take the time to look at the situation using various facts and use your head to create a clearer picture of what is really going on. Only then, can you decide what your next move should be.</p><p>When reversed, the Queen of Swords can also be quite bitter, coldhearted, or resentful. You may have started to isolate yourself for a number of reasons, but the outside world could be taking this in the wrong way. You may have some explaining to do, especially if your relationships end up being stressed by your desire for solitude.</p>"
     ,lesson:"I accept that wisdom can come at an emotional cost."
 },
 {
     cardname:"King of Swords"
     ,filename:"sword14"
     ,uprightKey:"<button class='cardKey'>Reason</button><button class='cardKey'>Authority</button><button class='cardKey'>Discipline</button><button class='cardKey'>Integrity</button><button class='cardKey'>Serious</button><button class='cardKey'>High Standards</button><button class='cardKey'>Strict</button>"
-    ,uprightDesc:""
+    ,uprightDesc:"<p>The King of Swords appearing in a reading suggests that you should remain objective in your current situation - you must establish truth by sticking to the facts. The King of Swords and his intellectual power implies that you will need to use your intellect to make your point known and attain your goals. Besides your experience and education, you should be sharp and observant, to see deeply into problems that come your way.</p><p>The King of Swords meaning also shows that you need to be stern in your role while ensuring that you have clarity of mind at all times. When judging a situation, you need to consider all the possible consequences to make an appropriate judgment. You will need to leave your emotions out of the judgment so as to maintain rational thinking at all times. The King of Swords meaning suggests that you should take time to reason with others and be candid with the observations that you have made.</p>"
     ,reverseKey:"<button class='cardKey'>Irrational</button><button class='cardKey'>Dictator</button><button class='cardKey'>Oppressive</button><button class='cardKey'>Controlling</button><button class='cardKey'>Ruthless</button><button class='cardKey'>Dishonest</button>"
-    ,reverseDesc:""
+    ,reverseDesc:"<p>The King of Swords in reversed shows tyrannical, abusive and manipulative habits. It may indicate the misuse of one’s mental power, drive, and authority. This is an illustration of persuasion and manipulation, so as to fulfill selfish desires. The King of Swords reversal meaning may also imply that you are showing off your level of intelligence by using big words when discussing ordinary topics. Another interpretation is that you may also be a loose cannon, especially where there are angry outbursts and impulses.</p>"
     ,lesson:"I know when to hold back and when to act."
 },
 {
@@ -686,7 +686,7 @@ var tarotList = [
 {
     cardname:"Queen of Wands"
     ,filename:"wands13"
-    ,uprightKey:"<button class='cardKey'>Confident<button class='cardKey'>Self-assured<button class='cardKey'>Passionate<button class='cardKey'>Determined<button class='cardKey'>Social<button class='cardKey'>Charismatic<button class='cardKey'>Optimistic<button class='cardKey'>Vivacious"
+    ,uprightKey:"<button class='cardKey'>Confident</button><button class='cardKey'>Self-assured</button><button class='cardKey'>Passionate</button><button class='cardKey'>Determined</button><button class='cardKey'>Social<button class='cardKey'>Charismatic</button><button class='cardKey'>Optimistic</button><button class='cardKey'>Vivacious</button>"
     ,uprightDesc:""
     ,reverseKey:"<button class='cardKey'>Demanding<button class='cardKey'>Vengeful<button class='cardKey'>Low Confidence<button class='cardKey'>Jealous<button class='cardKey'>Selfish<button class='cardKey'>Temperamental"
     ,reverseDesc:""
@@ -695,13 +695,52 @@ var tarotList = [
 {
     cardname:"King of Wands"
     ,filename:"wands14"
-    ,uprightKey:"<button class='cardKey'>Leadership<button class='cardKey'>Vision<button class='cardKey'>Big Picture<button class='cardKey'>Taking Control<button class='cardKey'>Daring Decisions<button class='cardKey'>Boldness<button class='cardKey'>Optimism"
+    ,uprightKey:"<button class='cardKey'>Leadership</button><button class='cardKey'>Vision</button><button class='cardKey'>Big Picture</button><button class='cardKey'>Taking Control</button><button class='cardKey'>Daring Decisions</button><button class='cardKey'>Boldness</button><button class='cardKey'>Optimism</button>"
     ,uprightDesc:""
-    ,reverseKey:"<button class='cardKey'>Forceful<button class='cardKey'>Domineering<button class='cardKey'>Tyrant<button class='cardKey'>Vicious <button class='cardKey'>Powerless<button class='cardKey'>Ineffective<button class='cardKey'>Weak Leader"
+    ,reverseKey:"<button class='cardKey'>Forceful</button><button class='cardKey'>Domineering</button><button class='cardKey'>Tyrant</button><button class='cardKey'>Vicious</button><button class='cardKey'>Powerless</button><button class='cardKey'>Ineffective</button><button class='cardKey'>Weak Leader</button>"
     ,reverseDesc:""
     ,lesson:"I have the vision to build the life I want."
 },
 ];
+
+var currentReading = "";
+
+function readDaily(){
+    localStorage.currentReading = readDaily;
+}
+function readPPF(){
+    localStorage.currentReading = readPPF;
+}
+function readSAO(){
+    localStorage.currentReading = readSAO;
+}
+
+function readingDisplay(){
+
+    var currentReading = localStorage.getItem("currentReading");
+    console.log(currentReading);
+
+    if (currentReading == readDaily) {
+        document.getElementById("readType1").innerHTML = "Thoughts";
+        document.getElementById("readType2").innerHTML = "Feelings";
+        document.getElementById("readType3").innerHTML = "Actions";
+    }
+    else if (currentReading == readPPF) {
+        document.getElementById("readType1").innerHTML = "Past";
+        document.getElementById("readType2").innerHTML = "Present";
+        document.getElementById("readType3").innerHTML = "Future";
+    }
+    else if (currentReading == readSAO) {
+        document.getElementById("readType1").innerHTML = "Situation";
+        document.getElementById("readType2").innerHTML = "Action";
+        document.getElementById("readType3").innerHTML = "Outcome";
+    }
+    else {
+        document.getElementById("readType1").innerHTML = "";
+        document.getElementById("readType2").innerHTML = "";
+        document.getElementById("readType3").innerHTML = "";
+    }
+}
 
 tarotRandNum ="";
 var tarotRandCard = "";
