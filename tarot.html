@@ -12,7 +12,9 @@
     <header class=>
         <div class="mainHeader">
             <div id="headerTitle">
-                <h1>♡ CAT TAROT ♡</h1>
+                <h1><a href="index.html">♡ CAT TAROT ♡</a></h1>
+            </div>
+            <div id="headerSubTitle">
                 <p>by <a href="https://www.instagram.com/alicetxt_/" target="_blank" rel="noopener noreferrer">alicetxt</a></p>
             </div>
         </div>
@@ -23,6 +25,7 @@
         <div class="content">
             <div class="tarotContainer">
                 <div class="tarotCard">
+                    <div id="readType1" class="readType"></div>
                     <img id="cardImg1" src="img_tarot/back.png" onclick="tarotCard1()">
                     <div class="cardName" id="cardName1"></div>
                     <div id="showDesc1"></div>
@@ -31,6 +34,7 @@
                     <div class="tarotUnder"></div>
                 </div>
                 <div class="tarotCard">
+                    <div id="readType2" class="readType"></div>
                     <img id="cardImg2" src="img_tarot/back.png" onclick="tarotCard2()">
                     <div class="cardName" id="cardName2"></div>
                     <div id="showDesc2"></div>
@@ -39,6 +43,7 @@
                     <div class="tarotUnder"></div>
                 </div>
                 <div class="tarotCard">
+                    <div id="readType3" class="readType"></div>
                     <img id="cardImg3" src="img_tarot/back.png" onclick="tarotCard3()">
                     <div class="cardName" id="cardName3"></div>
                     <div id="showDesc3"></div>
@@ -46,6 +51,7 @@
                     <div id="cardLess3" class="cardLesson"></div>
                     <div class="tarotUnder"></div>
                 </div>
+                <script>readingDisplay();</script>
             </div>
             <div class="tarotUnder"></div>
         </div>
