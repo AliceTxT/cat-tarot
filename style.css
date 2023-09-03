@@ -16,14 +16,25 @@
     font-family:alicetxt;
     color:#2E190F;
 }
-#headerTitle p {
+#headerTitle a {
+    color:#2E190F;
+    text-decoration: none;
+}
+#headerSubTitle{
+    padding:1px;
+    text-align: center;
+    font-size:16px;
+    font-family:alicetxt;
+    color:#2E190F;
+}
+#headerSubTitle p {
     margin-top: -1.5%;
     font-weight: bold;
 }
-#headerTitle a {
+#headerSubTitle a {
     color:#4B815B;
 }
-#headerTitle a:hover {
+#headerSubTitle a:hover {
     color:#c03944;
 }
 
@@ -128,6 +139,14 @@ body{
 
 
 /*TAROT CARD*/
+.readType{
+    color:#2E190F;
+    min-height:5px;
+    margin: 5%;
+    font-weight: bold;
+    font-size: 22px;
+    text-align: center;
+}
 .tarotContainer{
     margin: auto;
     position: relative;
@@ -150,7 +169,6 @@ body{
 }
 .cardName {
     position: relative;
-    height: auto;
     width: 90%;
     margin-left: 5%;
     margin-right: 5%;
@@ -159,9 +177,10 @@ body{
     font-weight: bold;
     font-size: 22px;
     color:#2E190F;
-    min-height: 50px;
+    min-height: 60px;
     cursor: default;
     transition: 0.05s;
+    line-height: 1.2;
 }
 .cardName:hover {
     color:#E94957;
@@ -196,7 +215,7 @@ body{
     border-radius: 10px;
     padding-left: 10px;
     padding-right: 10px;
-    padding-top: 2.5%;
+    padding-top: 1%;
     font-family: alicetxt;
     color:#2E190F;
     background-color:#83B692;
